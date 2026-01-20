@@ -1,0 +1,11183 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "total_words": 588,
+    "last_updated": "2025-01-08",
+    "source": "Oxford 5000 - C2 Level",
+    "description": "C2 seviyesi İngilizce kelimeler (C1'den ayrıldı)"
+  },
+  "words": [
+    {
+      "id": 1,
+      "eng": "liver",
+      "tr": [
+        "liver"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "macera",
+          "liver",
+          "para",
+          "adam"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "eng": "lobby",
+      "tr": [
+        "lobby"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "lobby",
+          "macera",
+          "kaza",
+          "soyutlama"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "eng": "log",
+      "tr": [
+        "log"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "log",
+          "su",
+          "bolluk",
+          "seçim"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "eng": "logic",
+      "tr": [
+        "logic"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kaza",
+          "logic",
+          "kürtaj",
+          "kadın"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "eng": "loom",
+      "tr": [
+        "loom"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "terk etmek",
+          "erişmek",
+          "loom",
+          "suçlamak"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "eng": "loop",
+      "tr": [
+        "loop"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "yokluk",
+          "adam",
+          "loop",
+          "bolluk"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "eng": "loyalty",
+      "tr": [
+        "loyalty"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "para",
+          "loyalty",
+          "süreç",
+          "şey"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "eng": "machinery",
+      "tr": [
+        "machinery"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "machinery",
+          "ev",
+          "yetenek",
+          "bolluk"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "eng": "magical",
+      "tr": [
+        "magical"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "magical",
+          "saçma",
+          "hızlı",
+          "mutlu"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "eng": "magistrate",
+      "tr": [
+        "magistrate"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kısaltma",
+          "magistrate",
+          "masa",
+          "yetenek"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "eng": "magnetic",
+      "tr": [
+        "magnetic"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "devamsız",
+          "hızlı",
+          "magnetic",
+          "çekici"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "eng": "magnitude",
+      "tr": [
+        "magnitude"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "magnitude",
+          "yemek",
+          "para",
+          "avantaj"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "eng": "mainland",
+      "tr": [
+        "mainland"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "yetenek",
+          "kapı",
+          "mainland",
+          "masa"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "eng": "mainstream",
+      "tr": [
+        "mainstream"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "bolluk",
+          "mainstream",
+          "insan",
+          "süreç"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "eng": "maintenance",
+      "tr": [
+        "maintenance"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "maintenance",
+          "şey",
+          "gün",
+          "araba"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "eng": "mandate",
+      "tr": [
+        "mandate"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "süreç",
+          "mandate",
+          "zaman",
+          "macera"
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "eng": "mandatory",
+      "tr": [
+        "mandatory"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "küçük",
+          "soğuk",
+          "zor",
+          "mandatory"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "eng": "manifest",
+      "tr": [
+        "manifest"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "terk etmek",
+          "kısaltmak",
+          "vermek",
+          "manifest"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "eng": "manipulate",
+      "tr": [
+        "manipulate"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "manipulate",
+          "yazmak",
+          "bilmek",
+          "söylemek"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "eng": "manipulation",
+      "tr": [
+        "manipulation"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "soyutlama",
+          "okul",
+          "arkadaş",
+          "manipulation"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "eng": "manuscript",
+      "tr": [
+        "manuscript"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "macera",
+          "insan",
+          "manuscript",
+          "adam"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "eng": "march",
+      "tr": [
+        "march"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "march",
+          "adam",
+          "su",
+          "kaza"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "eng": "marginal",
+      "tr": [
+        "marginal"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "eski",
+          "bol",
+          "bitişik",
+          "marginal"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "eng": "marine",
+      "tr": [
+        "marine"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "akademik",
+          "marine",
+          "yeni",
+          "kolay"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "eng": "marketplace",
+      "tr": [
+        "marketplace"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "zaman",
+          "marketplace",
+          "su",
+          "kapı"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "eng": "mask",
+      "tr": [
+        "mask"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kapı",
+          "yetenek",
+          "mask",
+          "süreç"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "eng": "massacre",
+      "tr": [
+        "massacre"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "şey",
+          "okul",
+          "yemek",
+          "massacre"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "eng": "mathematical",
+      "tr": [
+        "mathematical"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "iyi",
+          "devamsız",
+          "mathematical",
+          "kapalı"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "eng": "mature",
+      "tr": [
+        "mature"
+      ],
+      "type": "adj.,",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "yeni",
+          "mature",
+          "iyi",
+          "saçma"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "eng": "maximize",
+      "tr": [
+        "maximize"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "terk etmek",
+          "hızlandırmak",
+          "hesaplamak",
+          "maximize"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "eng": "meaningful",
+      "tr": [
+        "meaningful"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kolay",
+          "canlı",
+          "devamsız",
+          "meaningful"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "eng": "meantime",
+      "tr": [
+        "meantime"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "para",
+          "arkadaş",
+          "kürtaj",
+          "meantime"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "eng": "medieval",
+      "tr": [
+        "medieval"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "güzel",
+          "bol",
+          "soğuk",
+          "medieval"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "eng": "meditation",
+      "tr": [
+        "meditation"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "su",
+          "bolluk",
+          "kadın",
+          "meditation"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "eng": "melody",
+      "tr": [
+        "melody"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "zaman",
+          "yetenek",
+          "karakter",
+          "melody"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "eng": "memo",
+      "tr": [
+        "memo"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "macera",
+          "kapı",
+          "memo",
+          "bolluk"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "eng": "memoir",
+      "tr": [
+        "memoir"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "okul",
+          "kısaltma",
+          "kadın",
+          "memoir"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "eng": "memorial",
+      "tr": [
+        "memorial"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "okul",
+          "memorial",
+          "süreç",
+          "kaza"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "eng": "mentor",
+      "tr": [
+        "mentor"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "gün",
+          "mentor",
+          "araba",
+          "bolluk"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "eng": "merchant",
+      "tr": [
+        "merchant"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "iş",
+          "merchant",
+          "yokluk",
+          "başarı"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "eng": "mercy",
+      "tr": [
+        "mercy"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kitap",
+          "soyutlama",
+          "mercy",
+          "iş"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "eng": "mere",
+      "tr": [
+        "mere"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "mere",
+          "aktif",
+          "saçma",
+          "bitişik"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "eng": "merely",
+      "tr": [
+        "merely"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "çıkarmak",
+          "hızlandırmak",
+          "merely",
+          "almak"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "eng": "merge",
+      "tr": [
+        "merge"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kısaltmak",
+          "merge",
+          "görmek",
+          "vermek"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "eng": "merger",
+      "tr": [
+        "merger"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yemek",
+          "okul",
+          "süreç",
+          "merger"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "eng": "merit",
+      "tr": [
+        "merit"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "macera",
+          "merit",
+          "kaza",
+          "karakter"
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "eng": "methodology",
+      "tr": [
+        "methodology"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "ev",
+          "yetenek",
+          "kürtaj",
+          "methodology"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "eng": "midst",
+      "tr": [
+        "midst"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kaza",
+          "macera",
+          "yetenek",
+          "midst"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "eng": "migration",
+      "tr": [
+        "migration"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "zaman",
+          "migration",
+          "arkadaş",
+          "avantaj"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "eng": "militant",
+      "tr": [
+        "militant"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "militant",
+          "su",
+          "karakter",
+          "yer"
+        ]
+      }
+    },
+    {
+      "id": 51,
+      "eng": "militia",
+      "tr": [
+        "militia"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "militia",
+          "araba",
+          "kürtaj",
+          "başarı"
+        ]
+      }
+    },
+    {
+      "id": 52,
+      "eng": "mill",
+      "tr": [
+        "mill"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "para",
+          "mill",
+          "macera",
+          "süreç"
+        ]
+      }
+    },
+    {
+      "id": 53,
+      "eng": "minimal",
+      "tr": [
+        "minimal"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "saçma",
+          "minimal",
+          "yorgun",
+          "bol"
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "eng": "minimize",
+      "tr": [
+        "minimize"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "almak",
+          "yapmak",
+          "minimize",
+          "hızlandırmak"
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "eng": "mining",
+      "tr": [
+        "mining"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "mining",
+          "kapı",
+          "yokluk",
+          "gün"
+        ]
+      }
+    },
+    {
+      "id": 56,
+      "eng": "ministry",
+      "tr": [
+        "ministry"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "süreç",
+          "ministry",
+          "yetenek",
+          "şey"
+        ]
+      }
+    },
+    {
+      "id": 57,
+      "eng": "miracle",
+      "tr": [
+        "miracle"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "su",
+          "süreç",
+          "miracle",
+          "başarı"
+        ]
+      }
+    },
+    {
+      "id": 58,
+      "eng": "misery",
+      "tr": [
+        "misery"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "avantaj",
+          "okul",
+          "zaman",
+          "misery"
+        ]
+      }
+    },
+    {
+      "id": 59,
+      "eng": "misleading",
+      "tr": [
+        "misleading"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "bol",
+          "hızlı",
+          "misleading",
+          "çekici"
+        ]
+      }
+    },
+    {
+      "id": 60,
+      "eng": "missile",
+      "tr": [
+        "missile"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "missile",
+          "kadın",
+          "yokluk",
+          "karakter"
+        ]
+      }
+    },
+    {
+      "id": 61,
+      "eng": "mob",
+      "tr": [
+        "mob"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kısaltma",
+          "iş",
+          "mob",
+          "yokluk"
+        ]
+      }
+    },
+    {
+      "id": 62,
+      "eng": "mobility",
+      "tr": [
+        "mobility"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kısaltma",
+          "mobility",
+          "başarı",
+          "soyutlama"
+        ]
+      }
+    },
+    {
+      "id": 63,
+      "eng": "mobilize",
+      "tr": [
+        "mobilize"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "biriktirmek",
+          "suçlamak",
+          "gitmek",
+          "mobilize"
+        ]
+      }
+    },
+    {
+      "id": 64,
+      "eng": "moderate",
+      "tr": [
+        "moderate"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kesin",
+          "saçma",
+          "moderate",
+          "kötü"
+        ]
+      }
+    },
+    {
+      "id": 65,
+      "eng": "modification",
+      "tr": [
+        "modification"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "modification",
+          "görev",
+          "masa",
+          "kürtaj"
+        ]
+      }
+    },
+    {
+      "id": 66,
+      "eng": "momentum",
+      "tr": [
+        "momentum"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "zaman",
+          "gün",
+          "kitap",
+          "momentum"
+        ]
+      }
+    },
+    {
+      "id": 67,
+      "eng": "monk",
+      "tr": [
+        "monk"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "seçim",
+          "yetenek",
+          "monk",
+          "ev"
+        ]
+      }
+    },
+    {
+      "id": 68,
+      "eng": "monopoly",
+      "tr": [
+        "monopoly"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "masa",
+          "kısaltma",
+          "iş",
+          "monopoly"
+        ]
+      }
+    },
+    {
+      "id": 69,
+      "eng": "morality",
+      "tr": [
+        "morality"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "morality",
+          "bolluk",
+          "kitap",
+          "iş"
+        ]
+      }
+    },
+    {
+      "id": 70,
+      "eng": "motive",
+      "tr": [
+        "motive"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "macera",
+          "insan",
+          "süreç",
+          "motive"
+        ]
+      }
+    },
+    {
+      "id": 71,
+      "eng": "motorist",
+      "tr": [
+        "motorist"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kaza",
+          "iş",
+          "bolluk",
+          "motorist"
+        ]
+      }
+    },
+    {
+      "id": 72,
+      "eng": "municipal",
+      "tr": [
+        "municipal"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "municipal",
+          "akut",
+          "kötü",
+          "hızlı"
+        ]
+      }
+    },
+    {
+      "id": 73,
+      "eng": "mutual",
+      "tr": [
+        "mutual"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "soğuk",
+          "iyi",
+          "eski",
+          "mutual"
+        ]
+      }
+    },
+    {
+      "id": 74,
+      "eng": "namely",
+      "tr": [
+        "namely"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "namely",
+          "erişmek",
+          "öğrenmek",
+          "almak"
+        ]
+      }
+    },
+    {
+      "id": 75,
+      "eng": "nationwide",
+      "tr": [
+        "nationwide"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kötü",
+          "parlak",
+          "mevcut",
+          "nationwide"
+        ]
+      }
+    },
+    {
+      "id": 76,
+      "eng": "naval",
+      "tr": [
+        "naval"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kesin",
+          "kırık",
+          "naval",
+          "zor"
+        ]
+      }
+    },
+    {
+      "id": 77,
+      "eng": "neglect",
+      "tr": [
+        "neglect"
+      ],
+      "type": "v.,",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "söylemek",
+          "almak",
+          "hesaplamak",
+          "neglect"
+        ]
+      }
+    },
+    {
+      "id": 78,
+      "eng": "neighbouring",
+      "tr": [
+        "neighbouring"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "büyük",
+          "kapalı",
+          "saçma",
+          "neighbouring"
+        ]
+      }
+    },
+    {
+      "id": 79,
+      "eng": "nest",
+      "tr": [
+        "nest"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "masa",
+          "kadın",
+          "yemek",
+          "nest"
+        ]
+      }
+    },
+    {
+      "id": 80,
+      "eng": "net",
+      "tr": [
+        "net"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "aktif",
+          "net",
+          "sıcak",
+          "eski"
+        ]
+      }
+    },
+    {
+      "id": 81,
+      "eng": "newsletter",
+      "tr": [
+        "newsletter"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yer",
+          "kürtaj",
+          "okul",
+          "newsletter"
+        ]
+      }
+    },
+    {
+      "id": 82,
+      "eng": "niche",
+      "tr": [
+        "niche"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "karakter",
+          "kısaltma",
+          "niche",
+          "kürtaj"
+        ]
+      }
+    },
+    {
+      "id": 83,
+      "eng": "noble",
+      "tr": [
+        "noble"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "soğuk",
+          "çekici",
+          "kırık",
+          "noble"
+        ]
+      }
+    },
+    {
+      "id": 84,
+      "eng": "nod",
+      "tr": [
+        "nod"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kabul etmek",
+          "nod",
+          "kısaltmak",
+          "okumak"
+        ]
+      }
+    },
+    {
+      "id": 85,
+      "eng": "nominate",
+      "tr": [
+        "nominate"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "gelmek",
+          "eklemek",
+          "nominate",
+          "takdir etmek"
+        ]
+      }
+    },
+    {
+      "id": 86,
+      "eng": "nomination",
+      "tr": [
+        "nomination"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "zaman",
+          "yer",
+          "nomination",
+          "para"
+        ]
+      }
+    },
+    {
+      "id": 87,
+      "eng": "nominee",
+      "tr": [
+        "nominee"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kadın",
+          "kaza",
+          "nominee",
+          "yokluk"
+        ]
+      }
+    },
+    {
+      "id": 88,
+      "eng": "nonetheless",
+      "tr": [
+        "nonetheless"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "nonetheless",
+          "hızlandırmak",
+          "bilmek",
+          "hesaplamak"
+        ]
+      }
+    },
+    {
+      "id": 89,
+      "eng": "nonsense",
+      "tr": [
+        "nonsense"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "gün",
+          "zaman",
+          "nonsense",
+          "kitap"
+        ]
+      }
+    },
+    {
+      "id": 90,
+      "eng": "noon",
+      "tr": [
+        "noon"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "süreç",
+          "noon",
+          "okul",
+          "başarı"
+        ]
+      }
+    },
+    {
+      "id": 91,
+      "eng": "notable",
+      "tr": [
+        "notable"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "mutlu",
+          "aktif",
+          "üzgün",
+          "notable"
+        ]
+      }
+    },
+    {
+      "id": 92,
+      "eng": "notably",
+      "tr": [
+        "notably"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "gelmek",
+          "notably",
+          "kısaltmak",
+          "takdir etmek"
+        ]
+      }
+    },
+    {
+      "id": 93,
+      "eng": "notify",
+      "tr": [
+        "notify"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "terk etmek",
+          "görünmek",
+          "uyarlamak",
+          "notify"
+        ]
+      }
+    },
+    {
+      "id": 94,
+      "eng": "notorious",
+      "tr": [
+        "notorious"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "eski",
+          "saçma",
+          "akut",
+          "notorious"
+        ]
+      }
+    },
+    {
+      "id": 95,
+      "eng": "novel",
+      "tr": [
+        "novel"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "novel",
+          "yorgun",
+          "soğuk",
+          "üzgün"
+        ]
+      }
+    },
+    {
+      "id": 96,
+      "eng": "nursery",
+      "tr": [
+        "nursery"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "para",
+          "nursery",
+          "yemek",
+          "masa"
+        ]
+      }
+    },
+    {
+      "id": 97,
+      "eng": "objection",
+      "tr": [
+        "objection"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "insan",
+          "kadın",
+          "adam",
+          "objection"
+        ]
+      }
+    },
+    {
+      "id": 98,
+      "eng": "oblige",
+      "tr": [
+        "oblige"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "oblige",
+          "görünmek",
+          "yazmak",
+          "hesaplamak"
+        ]
+      }
+    },
+    {
+      "id": 99,
+      "eng": "obsess",
+      "tr": [
+        "obsess"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "obsess",
+          "almak",
+          "gitmek",
+          "terk etmek"
+        ]
+      }
+    },
+    {
+      "id": 100,
+      "eng": "obsession",
+      "tr": [
+        "obsession"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "soyutlama",
+          "kürtaj",
+          "şey",
+          "obsession"
+        ]
+      }
+    },
+    {
+      "id": 101,
+      "eng": "occasional",
+      "tr": [
+        "occasional"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "occasional",
+          "soyut",
+          "mevcut",
+          "saçma"
+        ]
+      }
+    },
+    {
+      "id": 102,
+      "eng": "occurrence",
+      "tr": [
+        "occurrence"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "arkadaş",
+          "macera",
+          "occurrence",
+          "kaza"
+        ]
+      }
+    },
+    {
+      "id": 103,
+      "eng": "odds",
+      "tr": [
+        "odds"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "şey",
+          "süreç",
+          "gün",
+          "odds"
+        ]
+      }
+    },
+    {
+      "id": 104,
+      "eng": "offering",
+      "tr": [
+        "offering"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "yer",
+          "offering",
+          "yokluk",
+          "masa"
+        ]
+      }
+    },
+    {
+      "id": 105,
+      "eng": "offspring",
+      "tr": [
+        "offspring"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "gün",
+          "offspring",
+          "masa",
+          "su"
+        ]
+      }
+    },
+    {
+      "id": 106,
+      "eng": "operational",
+      "tr": [
+        "operational"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "açık",
+          "mevcut",
+          "operational",
+          "büyük"
+        ]
+      }
+    },
+    {
+      "id": 107,
+      "eng": "opt",
+      "tr": [
+        "opt"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "almak",
+          "çıkarmak",
+          "yazmak",
+          "opt"
+        ]
+      }
+    },
+    {
+      "id": 108,
+      "eng": "optical",
+      "tr": [
+        "optical"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "optical",
+          "küçük",
+          "kapalı",
+          "kırık"
+        ]
+      }
+    },
+    {
+      "id": 109,
+      "eng": "optimism",
+      "tr": [
+        "optimism"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kaza",
+          "optimism",
+          "kapı",
+          "seçim"
+        ]
+      }
+    },
+    {
+      "id": 110,
+      "eng": "oral",
+      "tr": [
+        "oral"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "akademik",
+          "saçma",
+          "üzgün",
+          "oral"
+        ]
+      }
+    },
+    {
+      "id": 111,
+      "eng": "organizational",
+      "tr": [
+        "organizational"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "bitişik",
+          "organizational",
+          "devamsız",
+          "kolay"
+        ]
+      }
+    },
+    {
+      "id": 112,
+      "eng": "orientation",
+      "tr": [
+        "orientation"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "orientation",
+          "masa",
+          "gün",
+          "yemek"
+        ]
+      }
+    },
+    {
+      "id": 113,
+      "eng": "originate",
+      "tr": [
+        "originate"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "yapmak",
+          "görünmek",
+          "originate",
+          "gitmek"
+        ]
+      }
+    },
+    {
+      "id": 114,
+      "eng": "outbreak",
+      "tr": [
+        "outbreak"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kitap",
+          "outbreak",
+          "kürtaj",
+          "adam"
+        ]
+      }
+    },
+    {
+      "id": 115,
+      "eng": "outing",
+      "tr": [
+        "outing"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "iş",
+          "kitap",
+          "soyutlama",
+          "outing"
+        ]
+      }
+    },
+    {
+      "id": 116,
+      "eng": "outlet",
+      "tr": [
+        "outlet"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "görev",
+          "outlet",
+          "okul",
+          "insan"
+        ]
+      }
+    },
+    {
+      "id": 117,
+      "eng": "outlook",
+      "tr": [
+        "outlook"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "adam",
+          "kaza",
+          "outlook",
+          "süreç"
+        ]
+      }
+    },
+    {
+      "id": 118,
+      "eng": "outrage",
+      "tr": [
+        "outrage"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "outrage",
+          "kitap",
+          "yetenek",
+          "görev"
+        ]
+      }
+    },
+    {
+      "id": 119,
+      "eng": "outsider",
+      "tr": [
+        "outsider"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "avantaj",
+          "yetenek",
+          "outsider",
+          "adam"
+        ]
+      }
+    },
+    {
+      "id": 120,
+      "eng": "overlook",
+      "tr": [
+        "overlook"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "eklemek",
+          "eşlik etmek",
+          "gitmek",
+          "overlook"
+        ]
+      }
+    },
+    {
+      "id": 121,
+      "eng": "overly",
+      "tr": [
+        "overly"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "biriktirmek",
+          "çıkarmak",
+          "overly",
+          "söylemek"
+        ]
+      }
+    },
+    {
+      "id": 122,
+      "eng": "oversee",
+      "tr": [
+        "oversee"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "gelmek",
+          "anlamak",
+          "öğrenmek",
+          "oversee"
+        ]
+      }
+    },
+    {
+      "id": 123,
+      "eng": "overturn",
+      "tr": [
+        "overturn"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kabul etmek",
+          "terk etmek",
+          "uyarlamak",
+          "overturn"
+        ]
+      }
+    },
+    {
+      "id": 124,
+      "eng": "overwhelm",
+      "tr": [
+        "overwhelm"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "öğrenmek",
+          "overwhelm",
+          "anlamak",
+          "eklemek"
+        ]
+      }
+    },
+    {
+      "id": 125,
+      "eng": "overwhelming",
+      "tr": [
+        "overwhelming"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yorgun",
+          "devamsız",
+          "bol",
+          "overwhelming"
+        ]
+      }
+    },
+    {
+      "id": 126,
+      "eng": "pad",
+      "tr": [
+        "pad"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "masa",
+          "kürtaj",
+          "okul",
+          "pad"
+        ]
+      }
+    },
+    {
+      "id": 127,
+      "eng": "parameter",
+      "tr": [
+        "parameter"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "insan",
+          "yetenek",
+          "parameter",
+          "yokluk"
+        ]
+      }
+    },
+    {
+      "id": 128,
+      "eng": "parental",
+      "tr": [
+        "parental"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "devamsız",
+          "parental",
+          "parlak",
+          "bol"
+        ]
+      }
+    },
+    {
+      "id": 129,
+      "eng": "parish",
+      "tr": [
+        "parish"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "parish",
+          "yetenek",
+          "yokluk",
+          "insan"
+        ]
+      }
+    },
+    {
+      "id": 130,
+      "eng": "parliamentary",
+      "tr": [
+        "parliamentary"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "güzel",
+          "üzgün",
+          "yeni",
+          "parliamentary"
+        ]
+      }
+    },
+    {
+      "id": 131,
+      "eng": "partial",
+      "tr": [
+        "partial"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kesin",
+          "bitişik",
+          "saçma",
+          "partial"
+        ]
+      }
+    },
+    {
+      "id": 132,
+      "eng": "partially",
+      "tr": [
+        "partially"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "yazmak",
+          "partially",
+          "vermek",
+          "biriktirmek"
+        ]
+      }
+    },
+    {
+      "id": 133,
+      "eng": "passing",
+      "tr": [
+        "passing"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kürtaj",
+          "passing",
+          "şey",
+          "insan"
+        ]
+      }
+    },
+    {
+      "id": 134,
+      "eng": "passive",
+      "tr": [
+        "passive"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "yavaş",
+          "passive",
+          "parlak",
+          "yorgun"
+        ]
+      }
+    },
+    {
+      "id": 135,
+      "eng": "pastor",
+      "tr": [
+        "pastor"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "pastor",
+          "kitap",
+          "şey",
+          "yer"
+        ]
+      }
+    },
+    {
+      "id": 136,
+      "eng": "patch",
+      "tr": [
+        "patch"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "masa",
+          "macera",
+          "kısaltma",
+          "patch"
+        ]
+      }
+    },
+    {
+      "id": 137,
+      "eng": "patent",
+      "tr": [
+        "patent"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kadın",
+          "insan",
+          "patent",
+          "avantaj"
+        ]
+      }
+    },
+    {
+      "id": 138,
+      "eng": "pathway",
+      "tr": [
+        "pathway"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "su",
+          "pathway",
+          "süreç",
+          "görev"
+        ]
+      }
+    },
+    {
+      "id": 139,
+      "eng": "patrol",
+      "tr": [
+        "patrol"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "macera",
+          "patrol",
+          "insan",
+          "yer"
+        ]
+      }
+    },
+    {
+      "id": 140,
+      "eng": "patron",
+      "tr": [
+        "patron"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kürtaj",
+          "yer",
+          "patron",
+          "kaza"
+        ]
+      }
+    },
+    {
+      "id": 141,
+      "eng": "peak",
+      "tr": [
+        "peak"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kaza",
+          "yetenek",
+          "peak",
+          "kadın"
+        ]
+      }
+    },
+    {
+      "id": 142,
+      "eng": "peasant",
+      "tr": [
+        "peasant"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "peasant",
+          "para",
+          "yemek",
+          "kürtaj"
+        ]
+      }
+    },
+    {
+      "id": 143,
+      "eng": "peculiar",
+      "tr": [
+        "peculiar"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "zor",
+          "güzel",
+          "yorgun",
+          "peculiar"
+        ]
+      }
+    },
+    {
+      "id": 144,
+      "eng": "persist",
+      "tr": [
+        "persist"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kaldırmak",
+          "kısaltmak",
+          "persist",
+          "yapmak"
+        ]
+      }
+    },
+    {
+      "id": 145,
+      "eng": "persistent",
+      "tr": [
+        "persistent"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "aktif",
+          "bol",
+          "hızlı",
+          "persistent"
+        ]
+      }
+    },
+    {
+      "id": 146,
+      "eng": "personnel",
+      "tr": [
+        "personnel"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "personnel",
+          "kadın",
+          "yetenek",
+          "araba"
+        ]
+      }
+    },
+    {
+      "id": 147,
+      "eng": "petition",
+      "tr": [
+        "petition"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "masa",
+          "araba",
+          "petition",
+          "para"
+        ]
+      }
+    },
+    {
+      "id": 148,
+      "eng": "philosopher",
+      "tr": [
+        "philosopher"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "seçim",
+          "insan",
+          "philosopher",
+          "para"
+        ]
+      }
+    },
+    {
+      "id": 149,
+      "eng": "philosophical",
+      "tr": [
+        "philosophical"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "philosophical",
+          "üzgün",
+          "kesin",
+          "yavaş"
+        ]
+      }
+    },
+    {
+      "id": 150,
+      "eng": "physician",
+      "tr": [
+        "physician"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "physician",
+          "yer",
+          "zaman",
+          "kadın"
+        ]
+      }
+    },
+    {
+      "id": 151,
+      "eng": "pioneer",
+      "tr": [
+        "pioneer"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "görev",
+          "arkadaş",
+          "pioneer",
+          "okul"
+        ]
+      }
+    },
+    {
+      "id": 152,
+      "eng": "pipeline",
+      "tr": [
+        "pipeline"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "pipeline",
+          "başarı",
+          "macera",
+          "iş"
+        ]
+      }
+    },
+    {
+      "id": 153,
+      "eng": "pirate",
+      "tr": [
+        "pirate"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "pirate",
+          "araba",
+          "seçim",
+          "yokluk"
+        ]
+      }
+    },
+    {
+      "id": 154,
+      "eng": "pit",
+      "tr": [
+        "pit"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "pit",
+          "yer",
+          "kaza",
+          "soyutlama"
+        ]
+      }
+    },
+    {
+      "id": 155,
+      "eng": "plea",
+      "tr": [
+        "plea"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "şey",
+          "plea",
+          "kapı",
+          "okul"
+        ]
+      }
+    },
+    {
+      "id": 156,
+      "eng": "plead",
+      "tr": [
+        "plead"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "almak",
+          "etkilemek",
+          "okumak",
+          "plead"
+        ]
+      }
+    },
+    {
+      "id": 157,
+      "eng": "pledge",
+      "tr": [
+        "pledge"
+      ],
+      "type": "v.,",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "pledge",
+          "söylemek",
+          "hesaplamak",
+          "almak"
+        ]
+      }
+    },
+    {
+      "id": 158,
+      "eng": "plug",
+      "tr": [
+        "plug"
+      ],
+      "type": "v.,",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yazmak",
+          "eklemek",
+          "suçlamak",
+          "plug"
+        ]
+      }
+    },
+    {
+      "id": 159,
+      "eng": "plunge",
+      "tr": [
+        "plunge"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "etkilemek",
+          "gitmek",
+          "plunge",
+          "biriktirmek"
+        ]
+      }
+    },
+    {
+      "id": 160,
+      "eng": "pole",
+      "tr": [
+        "pole"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "şey",
+          "pole",
+          "su",
+          "yer"
+        ]
+      }
+    },
+    {
+      "id": 161,
+      "eng": "poll",
+      "tr": [
+        "poll"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "poll",
+          "kürtaj",
+          "su",
+          "karakter"
+        ]
+      }
+    },
+    {
+      "id": 162,
+      "eng": "pond",
+      "tr": [
+        "pond"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kapı",
+          "arkadaş",
+          "pond",
+          "bolluk"
+        ]
+      }
+    },
+    {
+      "id": 163,
+      "eng": "pop",
+      "tr": [
+        "pop"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "çıkarmak",
+          "yazmak",
+          "pop",
+          "gitmek"
+        ]
+      }
+    },
+    {
+      "id": 164,
+      "eng": "portfolio",
+      "tr": [
+        "portfolio"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "ev",
+          "gün",
+          "su",
+          "portfolio"
+        ]
+      }
+    },
+    {
+      "id": 165,
+      "eng": "portray",
+      "tr": [
+        "portray"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yazmak",
+          "görmek",
+          "başarmak",
+          "portray"
+        ]
+      }
+    },
+    {
+      "id": 166,
+      "eng": "postpone",
+      "tr": [
+        "postpone"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "görünmek",
+          "söylemek",
+          "postpone",
+          "vermek"
+        ]
+      }
+    },
+    {
+      "id": 167,
+      "eng": "practitioner",
+      "tr": [
+        "practitioner"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kadın",
+          "kürtaj",
+          "karakter",
+          "practitioner"
+        ]
+      }
+    },
+    {
+      "id": 168,
+      "eng": "preach",
+      "tr": [
+        "preach"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "hesaplamak",
+          "preach",
+          "izin vermek",
+          "anlamak"
+        ]
+      }
+    },
+    {
+      "id": 169,
+      "eng": "precedent",
+      "tr": [
+        "precedent"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "precedent",
+          "süreç",
+          "başarı",
+          "yer"
+        ]
+      }
+    },
+    {
+      "id": 170,
+      "eng": "precision",
+      "tr": [
+        "precision"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "arkadaş",
+          "macera",
+          "soyutlama",
+          "precision"
+        ]
+      }
+    },
+    {
+      "id": 171,
+      "eng": "predator",
+      "tr": [
+        "predator"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "predator",
+          "yemek",
+          "bolluk",
+          "kısaltma"
+        ]
+      }
+    },
+    {
+      "id": 172,
+      "eng": "predecessor",
+      "tr": [
+        "predecessor"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "predecessor",
+          "masa",
+          "araba",
+          "iş"
+        ]
+      }
+    },
+    {
+      "id": 173,
+      "eng": "predominantly",
+      "tr": [
+        "predominantly"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "etkilemek",
+          "biriktirmek",
+          "eşlik etmek",
+          "predominantly"
+        ]
+      }
+    },
+    {
+      "id": 174,
+      "eng": "pregnancy",
+      "tr": [
+        "pregnancy"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "masa",
+          "pregnancy",
+          "iş",
+          "para"
+        ]
+      }
+    },
+    {
+      "id": 175,
+      "eng": "prejudice",
+      "tr": [
+        "prejudice"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "başarı",
+          "okul",
+          "prejudice",
+          "yemek"
+        ]
+      }
+    },
+    {
+      "id": 176,
+      "eng": "preliminary",
+      "tr": [
+        "preliminary"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "güzel",
+          "soyut",
+          "preliminary",
+          "soğuk"
+        ]
+      }
+    },
+    {
+      "id": 177,
+      "eng": "premier",
+      "tr": [
+        "premier"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "yemek",
+          "premier",
+          "ev",
+          "para"
+        ]
+      }
+    },
+    {
+      "id": 178,
+      "eng": "premise",
+      "tr": [
+        "premise"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kısaltma",
+          "adam",
+          "avantaj",
+          "premise"
+        ]
+      }
+    },
+    {
+      "id": 179,
+      "eng": "premium",
+      "tr": [
+        "premium"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "premium",
+          "yetenek",
+          "seçim",
+          "kitap"
+        ]
+      }
+    },
+    {
+      "id": 180,
+      "eng": "prescribe",
+      "tr": [
+        "prescribe"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "söylemek",
+          "etkilemek",
+          "eklemek",
+          "prescribe"
+        ]
+      }
+    },
+    {
+      "id": 181,
+      "eng": "prescription",
+      "tr": [
+        "prescription"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "avantaj",
+          "adam",
+          "insan",
+          "prescription"
+        ]
+      }
+    },
+    {
+      "id": 182,
+      "eng": "presently",
+      "tr": [
+        "presently"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "eşlik etmek",
+          "presently",
+          "öğrenmek",
+          "söylemek"
+        ]
+      }
+    },
+    {
+      "id": 183,
+      "eng": "preservation",
+      "tr": [
+        "preservation"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "şey",
+          "süreç",
+          "preservation",
+          "gün"
+        ]
+      }
+    },
+    {
+      "id": 184,
+      "eng": "preside",
+      "tr": [
+        "preside"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kısaltmak",
+          "bilmek",
+          "uyarlamak",
+          "preside"
+        ]
+      }
+    },
+    {
+      "id": 185,
+      "eng": "presidency",
+      "tr": [
+        "presidency"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "yokluk",
+          "karakter",
+          "presidency",
+          "okul"
+        ]
+      }
+    },
+    {
+      "id": 186,
+      "eng": "presidential",
+      "tr": [
+        "presidential"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "devamsız",
+          "saçma",
+          "presidential",
+          "bol"
+        ]
+      }
+    },
+    {
+      "id": 187,
+      "eng": "prestigious",
+      "tr": [
+        "prestigious"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "mevcut",
+          "çekici",
+          "hızlı",
+          "prestigious"
+        ]
+      }
+    },
+    {
+      "id": 188,
+      "eng": "presumably",
+      "tr": [
+        "presumably"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "suçlamak",
+          "presumably",
+          "öğrenmek",
+          "anlamak"
+        ]
+      }
+    },
+    {
+      "id": 189,
+      "eng": "presume",
+      "tr": [
+        "presume"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "presume",
+          "takdir etmek",
+          "yapmak",
+          "erişmek"
+        ]
+      }
+    },
+    {
+      "id": 190,
+      "eng": "prevail",
+      "tr": [
+        "prevail"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "etkilemek",
+          "takdir etmek",
+          "biriktirmek",
+          "prevail"
+        ]
+      }
+    },
+    {
+      "id": 191,
+      "eng": "prevalence",
+      "tr": [
+        "prevalence"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kürtaj",
+          "yokluk",
+          "yetenek",
+          "prevalence"
+        ]
+      }
+    },
+    {
+      "id": 192,
+      "eng": "prevention",
+      "tr": [
+        "prevention"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "soyutlama",
+          "prevention",
+          "kürtaj",
+          "okul"
+        ]
+      }
+    },
+    {
+      "id": 193,
+      "eng": "prey",
+      "tr": [
+        "prey"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "prey",
+          "bolluk",
+          "insan",
+          "adam"
+        ]
+      }
+    },
+    {
+      "id": 194,
+      "eng": "principal",
+      "tr": [
+        "principal"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "principal",
+          "masa",
+          "iş",
+          "yer"
+        ]
+      }
+    },
+    {
+      "id": 195,
+      "eng": "privatization",
+      "tr": [
+        "privatization"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "seçim",
+          "yetenek",
+          "süreç",
+          "privatization"
+        ]
+      }
+    },
+    {
+      "id": 196,
+      "eng": "privilege",
+      "tr": [
+        "privilege"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kapı",
+          "privilege",
+          "yokluk",
+          "soyutlama"
+        ]
+      }
+    },
+    {
+      "id": 197,
+      "eng": "probe",
+      "tr": [
+        "probe"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "okul",
+          "probe",
+          "araba",
+          "seçim"
+        ]
+      }
+    },
+    {
+      "id": 198,
+      "eng": "problematic",
+      "tr": [
+        "problematic"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "büyük",
+          "problematic",
+          "küçük",
+          "üzgün"
+        ]
+      }
+    },
+    {
+      "id": 199,
+      "eng": "proceedings",
+      "tr": [
+        "proceedings"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "arkadaş",
+          "kaza",
+          "proceedings",
+          "ev"
+        ]
+      }
+    },
+    {
+      "id": 200,
+      "eng": "proceeds",
+      "tr": [
+        "proceeds"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "insan",
+          "proceeds",
+          "başarı",
+          "yetenek"
+        ]
+      }
+    },
+    {
+      "id": 201,
+      "eng": "processing",
+      "tr": [
+        "processing"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "iş",
+          "macera",
+          "görev",
+          "processing"
+        ]
+      }
+    },
+    {
+      "id": 202,
+      "eng": "processor",
+      "tr": [
+        "processor"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "seçim",
+          "kapı",
+          "yokluk",
+          "processor"
+        ]
+      }
+    },
+    {
+      "id": 203,
+      "eng": "proclaim",
+      "tr": [
+        "proclaim"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "proclaim",
+          "terk etmek",
+          "başarmak",
+          "eşlik etmek"
+        ]
+      }
+    },
+    {
+      "id": 204,
+      "eng": "productive",
+      "tr": [
+        "productive"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "hızlı",
+          "bitişik",
+          "kesin",
+          "productive"
+        ]
+      }
+    },
+    {
+      "id": 205,
+      "eng": "productivity",
+      "tr": [
+        "productivity"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "macera",
+          "avantaj",
+          "yokluk",
+          "productivity"
+        ]
+      }
+    },
+    {
+      "id": 206,
+      "eng": "profitable",
+      "tr": [
+        "profitable"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kırık",
+          "profitable",
+          "iyi",
+          "üzgün"
+        ]
+      }
+    },
+    {
+      "id": 207,
+      "eng": "profound",
+      "tr": [
+        "profound"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yorgun",
+          "devamsız",
+          "açık",
+          "profound"
+        ]
+      }
+    },
+    {
+      "id": 208,
+      "eng": "projection",
+      "tr": [
+        "projection"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "para",
+          "projection",
+          "gün",
+          "avantaj"
+        ]
+      }
+    },
+    {
+      "id": 209,
+      "eng": "prominent",
+      "tr": [
+        "prominent"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "eski",
+          "prominent",
+          "mutlu",
+          "üzgün"
+        ]
+      }
+    },
+    {
+      "id": 210,
+      "eng": "pronounced",
+      "tr": [
+        "pronounced"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yeni",
+          "sıcak",
+          "bol",
+          "pronounced"
+        ]
+      }
+    },
+    {
+      "id": 211,
+      "eng": "propaganda",
+      "tr": [
+        "propaganda"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "şey",
+          "yetenek",
+          "propaganda",
+          "kapı"
+        ]
+      }
+    },
+    {
+      "id": 212,
+      "eng": "proposition",
+      "tr": [
+        "proposition"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "proposition",
+          "para",
+          "su",
+          "kürtaj"
+        ]
+      }
+    },
+    {
+      "id": 213,
+      "eng": "prosecute",
+      "tr": [
+        "prosecute"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "vermek",
+          "prosecute",
+          "başarmak",
+          "gelmek"
+        ]
+      }
+    },
+    {
+      "id": 214,
+      "eng": "prosecution",
+      "tr": [
+        "prosecution"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "şey",
+          "prosecution",
+          "iş",
+          "yetenek"
+        ]
+      }
+    },
+    {
+      "id": 215,
+      "eng": "prosecutor",
+      "tr": [
+        "prosecutor"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kapı",
+          "iş",
+          "prosecutor",
+          "kısaltma"
+        ]
+      }
+    },
+    {
+      "id": 216,
+      "eng": "prosperity",
+      "tr": [
+        "prosperity"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "prosperity",
+          "avantaj",
+          "kapı",
+          "zaman"
+        ]
+      }
+    },
+    {
+      "id": 217,
+      "eng": "protective",
+      "tr": [
+        "protective"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "protective",
+          "canlı",
+          "kötü",
+          "üzgün"
+        ]
+      }
+    },
+    {
+      "id": 218,
+      "eng": "protocol",
+      "tr": [
+        "protocol"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yer",
+          "seçim",
+          "yemek",
+          "protocol"
+        ]
+      }
+    },
+    {
+      "id": 219,
+      "eng": "province",
+      "tr": [
+        "province"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "province",
+          "soyutlama",
+          "yokluk",
+          "adam"
+        ]
+      }
+    },
+    {
+      "id": 220,
+      "eng": "provincial",
+      "tr": [
+        "provincial"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "provincial",
+          "yavaş",
+          "zor",
+          "yeni"
+        ]
+      }
+    },
+    {
+      "id": 221,
+      "eng": "provision",
+      "tr": [
+        "provision"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "provision",
+          "kitap",
+          "masa",
+          "adam"
+        ]
+      }
+    },
+    {
+      "id": 222,
+      "eng": "provoke",
+      "tr": [
+        "provoke"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "provoke",
+          "çıkarmak",
+          "kısaltmak",
+          "öğrenmek"
+        ]
+      }
+    },
+    {
+      "id": 223,
+      "eng": "psychiatric",
+      "tr": [
+        "psychiatric"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "psychiatric",
+          "akademik",
+          "açık",
+          "kapalı"
+        ]
+      }
+    },
+    {
+      "id": 224,
+      "eng": "pulse",
+      "tr": [
+        "pulse"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yer",
+          "kitap",
+          "karakter",
+          "pulse"
+        ]
+      }
+    },
+    {
+      "id": 225,
+      "eng": "pump",
+      "tr": [
+        "pump"
+      ],
+      "type": "v.,",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "izin vermek",
+          "görmek",
+          "okumak",
+          "pump"
+        ]
+      }
+    },
+    {
+      "id": 226,
+      "eng": "punch",
+      "tr": [
+        "punch"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "iş",
+          "karakter",
+          "yetenek",
+          "punch"
+        ]
+      }
+    },
+    {
+      "id": 227,
+      "eng": "query",
+      "tr": [
+        "query"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "su",
+          "query",
+          "başarı",
+          "gün"
+        ]
+      }
+    },
+    {
+      "id": 228,
+      "eng": "quest",
+      "tr": [
+        "quest"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "karakter",
+          "kısaltma",
+          "araba",
+          "quest"
+        ]
+      }
+    },
+    {
+      "id": 229,
+      "eng": "quota",
+      "tr": [
+        "quota"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "quota",
+          "yokluk",
+          "kaza",
+          "avantaj"
+        ]
+      }
+    },
+    {
+      "id": 230,
+      "eng": "radar",
+      "tr": [
+        "radar"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "bolluk",
+          "kadın",
+          "radar",
+          "kısaltma"
+        ]
+      }
+    },
+    {
+      "id": 231,
+      "eng": "radical",
+      "tr": [
+        "radical"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "radical",
+          "kesin",
+          "parlak",
+          "akut"
+        ]
+      }
+    },
+    {
+      "id": 232,
+      "eng": "rage",
+      "tr": [
+        "rage"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kaza",
+          "rage",
+          "görev",
+          "arkadaş"
+        ]
+      }
+    },
+    {
+      "id": 233,
+      "eng": "raid",
+      "tr": [
+        "raid"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "bolluk",
+          "süreç",
+          "raid",
+          "avantaj"
+        ]
+      }
+    },
+    {
+      "id": 234,
+      "eng": "rally",
+      "tr": [
+        "rally"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "rally",
+          "kitap",
+          "masa",
+          "adam"
+        ]
+      }
+    },
+    {
+      "id": 235,
+      "eng": "ranking",
+      "tr": [
+        "ranking"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "avantaj",
+          "ranking",
+          "ev",
+          "arkadaş"
+        ]
+      }
+    },
+    {
+      "id": 236,
+      "eng": "rape",
+      "tr": [
+        "rape"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "rape",
+          "avantaj",
+          "kısaltma",
+          "yetenek"
+        ]
+      }
+    },
+    {
+      "id": 237,
+      "eng": "ratio",
+      "tr": [
+        "ratio"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "arkadaş",
+          "kaza",
+          "ratio",
+          "yokluk"
+        ]
+      }
+    },
+    {
+      "id": 238,
+      "eng": "rational",
+      "tr": [
+        "rational"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kolay",
+          "soğuk",
+          "sıcak",
+          "rational"
+        ]
+      }
+    },
+    {
+      "id": 239,
+      "eng": "ray",
+      "tr": [
+        "ray"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "süreç",
+          "yetenek",
+          "ray",
+          "kitap"
+        ]
+      }
+    },
+    {
+      "id": 240,
+      "eng": "readily",
+      "tr": [
+        "readily"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "görünmek",
+          "readily",
+          "hesaplamak",
+          "görmek"
+        ]
+      }
+    },
+    {
+      "id": 241,
+      "eng": "realization",
+      "tr": [
+        "realization"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "realization",
+          "kısaltma",
+          "arkadaş",
+          "zaman"
+        ]
+      }
+    },
+    {
+      "id": 242,
+      "eng": "realm",
+      "tr": [
+        "realm"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "karakter",
+          "yer",
+          "realm",
+          "başarı"
+        ]
+      }
+    },
+    {
+      "id": 243,
+      "eng": "rear",
+      "tr": [
+        "rear"
+      ],
+      "type": "adj.,",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "üzgün",
+          "rear",
+          "büyük",
+          "yavaş"
+        ]
+      }
+    },
+    {
+      "id": 244,
+      "eng": "reasoning",
+      "tr": [
+        "reasoning"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "şey",
+          "yer",
+          "ev",
+          "reasoning"
+        ]
+      }
+    },
+    {
+      "id": 245,
+      "eng": "reassure",
+      "tr": [
+        "reassure"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "reassure",
+          "yazmak",
+          "biriktirmek",
+          "uyarlamak"
+        ]
+      }
+    },
+    {
+      "id": 246,
+      "eng": "rebel",
+      "tr": [
+        "rebel"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "arkadaş",
+          "şey",
+          "araba",
+          "rebel"
+        ]
+      }
+    },
+    {
+      "id": 247,
+      "eng": "rebellion",
+      "tr": [
+        "rebellion"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "rebellion",
+          "para",
+          "süreç",
+          "şey"
+        ]
+      }
+    },
+    {
+      "id": 248,
+      "eng": "recipient",
+      "tr": [
+        "recipient"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "avantaj",
+          "para",
+          "süreç",
+          "recipient"
+        ]
+      }
+    },
+    {
+      "id": 249,
+      "eng": "reconstruction",
+      "tr": [
+        "reconstruction"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "başarı",
+          "kaza",
+          "reconstruction",
+          "bolluk"
+        ]
+      }
+    },
+    {
+      "id": 250,
+      "eng": "referendum",
+      "tr": [
+        "referendum"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yer",
+          "soyutlama",
+          "avantaj",
+          "referendum"
+        ]
+      }
+    },
+    {
+      "id": 251,
+      "eng": "reflection",
+      "tr": [
+        "reflection"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kadın",
+          "reflection",
+          "karakter",
+          "yer"
+        ]
+      }
+    },
+    {
+      "id": 252,
+      "eng": "reform",
+      "tr": [
+        "reform"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "avantaj",
+          "süreç",
+          "reform",
+          "iş"
+        ]
+      }
+    },
+    {
+      "id": 253,
+      "eng": "refuge",
+      "tr": [
+        "refuge"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yemek",
+          "kapı",
+          "arkadaş",
+          "refuge"
+        ]
+      }
+    },
+    {
+      "id": 254,
+      "eng": "refusal",
+      "tr": [
+        "refusal"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "refusal",
+          "kapı",
+          "macera",
+          "avantaj"
+        ]
+      }
+    },
+    {
+      "id": 255,
+      "eng": "regain",
+      "tr": [
+        "regain"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "regain",
+          "gelmek",
+          "almak",
+          "anlamak"
+        ]
+      }
+    },
+    {
+      "id": 256,
+      "eng": "regardless",
+      "tr": [
+        "regardless"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "vermek",
+          "okumak",
+          "regardless",
+          "uyarlamak"
+        ]
+      }
+    },
+    {
+      "id": 257,
+      "eng": "regime",
+      "tr": [
+        "regime"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "regime",
+          "gün",
+          "ev",
+          "araba"
+        ]
+      }
+    },
+    {
+      "id": 258,
+      "eng": "regulator",
+      "tr": [
+        "regulator"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "avantaj",
+          "görev",
+          "yer",
+          "regulator"
+        ]
+      }
+    },
+    {
+      "id": 259,
+      "eng": "regulatory",
+      "tr": [
+        "regulatory"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "regulatory",
+          "canlı",
+          "yavaş",
+          "akut"
+        ]
+      }
+    },
+    {
+      "id": 260,
+      "eng": "rehabilitation",
+      "tr": [
+        "rehabilitation"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "insan",
+          "bolluk",
+          "iş",
+          "rehabilitation"
+        ]
+      }
+    },
+    {
+      "id": 261,
+      "eng": "reign",
+      "tr": [
+        "reign"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kadın",
+          "reign",
+          "kapı",
+          "bolluk"
+        ]
+      }
+    },
+    {
+      "id": 262,
+      "eng": "rejection",
+      "tr": [
+        "rejection"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kaza",
+          "soyutlama",
+          "rejection",
+          "insan"
+        ]
+      }
+    },
+    {
+      "id": 263,
+      "eng": "relevance",
+      "tr": [
+        "relevance"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kürtaj",
+          "relevance",
+          "macera",
+          "insan"
+        ]
+      }
+    },
+    {
+      "id": 264,
+      "eng": "reliability",
+      "tr": [
+        "reliability"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "okul",
+          "masa",
+          "reliability",
+          "şey"
+        ]
+      }
+    },
+    {
+      "id": 265,
+      "eng": "reluctant",
+      "tr": [
+        "reluctant"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "reluctant",
+          "kırık",
+          "mevcut",
+          "kapalı"
+        ]
+      }
+    },
+    {
+      "id": 266,
+      "eng": "remainder",
+      "tr": [
+        "remainder"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "görev",
+          "zaman",
+          "seçim",
+          "remainder"
+        ]
+      }
+    },
+    {
+      "id": 267,
+      "eng": "remains",
+      "tr": [
+        "remains"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "remains",
+          "seçim",
+          "zaman",
+          "şey"
+        ]
+      }
+    },
+    {
+      "id": 268,
+      "eng": "remedy",
+      "tr": [
+        "remedy"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "iş",
+          "kitap",
+          "yokluk",
+          "remedy"
+        ]
+      }
+    },
+    {
+      "id": 269,
+      "eng": "reminder",
+      "tr": [
+        "reminder"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "masa",
+          "reminder",
+          "kürtaj",
+          "süreç"
+        ]
+      }
+    },
+    {
+      "id": 270,
+      "eng": "removal",
+      "tr": [
+        "removal"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "bolluk",
+          "iş",
+          "removal",
+          "okul"
+        ]
+      }
+    },
+    {
+      "id": 271,
+      "eng": "render",
+      "tr": [
+        "render"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "etkilemek",
+          "render",
+          "hesaplamak",
+          "terk etmek"
+        ]
+      }
+    },
+    {
+      "id": 272,
+      "eng": "renew",
+      "tr": [
+        "renew"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "suçlamak",
+          "renew",
+          "uyarlamak",
+          "hesaplamak"
+        ]
+      }
+    },
+    {
+      "id": 273,
+      "eng": "renowned",
+      "tr": [
+        "renowned"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kötü",
+          "sıcak",
+          "renowned",
+          "kırık"
+        ]
+      }
+    },
+    {
+      "id": 274,
+      "eng": "rental",
+      "tr": [
+        "rental"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "iş",
+          "para",
+          "rental",
+          "kürtaj"
+        ]
+      }
+    },
+    {
+      "id": 275,
+      "eng": "replacement",
+      "tr": [
+        "replacement"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yer",
+          "macera",
+          "yetenek",
+          "replacement"
+        ]
+      }
+    },
+    {
+      "id": 276,
+      "eng": "reportedly",
+      "tr": [
+        "reportedly"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "reportedly",
+          "görünmek",
+          "hızlandırmak",
+          "suçlamak"
+        ]
+      }
+    },
+    {
+      "id": 277,
+      "eng": "representation",
+      "tr": [
+        "representation"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "soyutlama",
+          "yetenek",
+          "zaman",
+          "representation"
+        ]
+      }
+    },
+    {
+      "id": 278,
+      "eng": "reproduce",
+      "tr": [
+        "reproduce"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "reproduce",
+          "olmak",
+          "etkilemek",
+          "anlamak"
+        ]
+      }
+    },
+    {
+      "id": 279,
+      "eng": "reproduction",
+      "tr": [
+        "reproduction"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "bolluk",
+          "reproduction",
+          "süreç",
+          "kürtaj"
+        ]
+      }
+    },
+    {
+      "id": 280,
+      "eng": "republic",
+      "tr": [
+        "republic"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "süreç",
+          "bolluk",
+          "macera",
+          "republic"
+        ]
+      }
+    },
+    {
+      "id": 281,
+      "eng": "resemble",
+      "tr": [
+        "resemble"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "resemble",
+          "hızlandırmak",
+          "yapmak",
+          "almak"
+        ]
+      }
+    },
+    {
+      "id": 282,
+      "eng": "reside",
+      "tr": [
+        "reside"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "olmak",
+          "reside",
+          "görmek",
+          "vermek"
+        ]
+      }
+    },
+    {
+      "id": 283,
+      "eng": "residence",
+      "tr": [
+        "residence"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "para",
+          "masa",
+          "residence",
+          "kadın"
+        ]
+      }
+    },
+    {
+      "id": 284,
+      "eng": "residential",
+      "tr": [
+        "residential"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "saçma",
+          "canlı",
+          "residential",
+          "çekici"
+        ]
+      }
+    },
+    {
+      "id": 285,
+      "eng": "residue",
+      "tr": [
+        "residue"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kısaltma",
+          "arkadaş",
+          "kürtaj",
+          "residue"
+        ]
+      }
+    },
+    {
+      "id": 286,
+      "eng": "resignation",
+      "tr": [
+        "resignation"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "gün",
+          "resignation",
+          "bolluk",
+          "kısaltma"
+        ]
+      }
+    },
+    {
+      "id": 287,
+      "eng": "resistance",
+      "tr": [
+        "resistance"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "gün",
+          "zaman",
+          "avantaj",
+          "resistance"
+        ]
+      }
+    },
+    {
+      "id": 288,
+      "eng": "respective",
+      "tr": [
+        "respective"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yavaş",
+          "açık",
+          "güzel",
+          "respective"
+        ]
+      }
+    },
+    {
+      "id": 289,
+      "eng": "respectively",
+      "tr": [
+        "respectively"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "hızlandırmak",
+          "uyarlamak",
+          "hesaplamak",
+          "respectively"
+        ]
+      }
+    },
+    {
+      "id": 290,
+      "eng": "restoration",
+      "tr": [
+        "restoration"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "süreç",
+          "başarı",
+          "restoration",
+          "ev"
+        ]
+      }
+    },
+    {
+      "id": 291,
+      "eng": "restraint",
+      "tr": [
+        "restraint"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "macera",
+          "karakter",
+          "restraint",
+          "soyutlama"
+        ]
+      }
+    },
+    {
+      "id": 292,
+      "eng": "resume",
+      "tr": [
+        "resume"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "eşlik etmek",
+          "takdir etmek",
+          "resume",
+          "gelmek"
+        ]
+      }
+    },
+    {
+      "id": 293,
+      "eng": "retreat",
+      "tr": [
+        "retreat"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "retreat",
+          "para",
+          "kürtaj",
+          "kaza"
+        ]
+      }
+    },
+    {
+      "id": 294,
+      "eng": "retrieve",
+      "tr": [
+        "retrieve"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "takdir etmek",
+          "etkilemek",
+          "kısaltmak",
+          "retrieve"
+        ]
+      }
+    },
+    {
+      "id": 295,
+      "eng": "revelation",
+      "tr": [
+        "revelation"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "revelation",
+          "su",
+          "yer",
+          "soyutlama"
+        ]
+      }
+    },
+    {
+      "id": 296,
+      "eng": "revenge",
+      "tr": [
+        "revenge"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "yetenek",
+          "revenge",
+          "kapı",
+          "kitap"
+        ]
+      }
+    },
+    {
+      "id": 297,
+      "eng": "reverse",
+      "tr": [
+        "reverse"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "görmek",
+          "izin vermek",
+          "reverse",
+          "almak"
+        ]
+      }
+    },
+    {
+      "id": 298,
+      "eng": "revival",
+      "tr": [
+        "revival"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "revival",
+          "insan",
+          "zaman",
+          "yetenek"
+        ]
+      }
+    },
+    {
+      "id": 299,
+      "eng": "revive",
+      "tr": [
+        "revive"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "revive",
+          "kaldırmak",
+          "anlamak",
+          "suçlamak"
+        ]
+      }
+    },
+    {
+      "id": 300,
+      "eng": "revolutionary",
+      "tr": [
+        "revolutionary"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "bol",
+          "revolutionary",
+          "akademik",
+          "hızlı"
+        ]
+      }
+    },
+    {
+      "id": 301,
+      "eng": "rhetoric",
+      "tr": [
+        "rhetoric"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yemek",
+          "kadın",
+          "macera",
+          "rhetoric"
+        ]
+      }
+    },
+    {
+      "id": 302,
+      "eng": "rifle",
+      "tr": [
+        "rifle"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "masa",
+          "şey",
+          "rifle",
+          "yemek"
+        ]
+      }
+    },
+    {
+      "id": 303,
+      "eng": "riot",
+      "tr": [
+        "riot"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "para",
+          "riot",
+          "avantaj",
+          "su"
+        ]
+      }
+    },
+    {
+      "id": 304,
+      "eng": "rip",
+      "tr": [
+        "rip"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "rip",
+          "gitmek",
+          "gelmek",
+          "suçlamak"
+        ]
+      }
+    },
+    {
+      "id": 305,
+      "eng": "ritual",
+      "tr": [
+        "ritual"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kaza",
+          "seçim",
+          "ritual",
+          "avantaj"
+        ]
+      }
+    },
+    {
+      "id": 306,
+      "eng": "robust",
+      "tr": [
+        "robust"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "küçük",
+          "robust",
+          "mevcut",
+          "canlı"
+        ]
+      }
+    },
+    {
+      "id": 307,
+      "eng": "rock",
+      "tr": [
+        "rock"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "gitmek",
+          "hızlandırmak",
+          "rock",
+          "yazmak"
+        ]
+      }
+    },
+    {
+      "id": 308,
+      "eng": "rod",
+      "tr": [
+        "rod"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "rod",
+          "yer",
+          "şey",
+          "kısaltma"
+        ]
+      }
+    },
+    {
+      "id": 309,
+      "eng": "rotate",
+      "tr": [
+        "rotate"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "almak",
+          "rotate",
+          "görünmek",
+          "söylemek"
+        ]
+      }
+    },
+    {
+      "id": 310,
+      "eng": "rotation",
+      "tr": [
+        "rotation"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kürtaj",
+          "arkadaş",
+          "rotation",
+          "su"
+        ]
+      }
+    },
+    {
+      "id": 311,
+      "eng": "ruling",
+      "tr": [
+        "ruling"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "görev",
+          "ruling",
+          "kürtaj",
+          "şey"
+        ]
+      }
+    },
+    {
+      "id": 312,
+      "eng": "rumour",
+      "tr": [
+        "rumour"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "şey",
+          "araba",
+          "rumour",
+          "iş"
+        ]
+      }
+    },
+    {
+      "id": 313,
+      "eng": "sack",
+      "tr": [
+        "sack"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "başarmak",
+          "olmak",
+          "bilmek",
+          "sack"
+        ]
+      }
+    },
+    {
+      "id": 314,
+      "eng": "sacred",
+      "tr": [
+        "sacred"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "parlak",
+          "sacred",
+          "soğuk",
+          "soyut"
+        ]
+      }
+    },
+    {
+      "id": 315,
+      "eng": "sacrifice",
+      "tr": [
+        "sacrifice"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "arkadaş",
+          "karakter",
+          "kısaltma",
+          "sacrifice"
+        ]
+      }
+    },
+    {
+      "id": 316,
+      "eng": "saint",
+      "tr": [
+        "saint"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kitap",
+          "saint",
+          "seçim",
+          "kısaltma"
+        ]
+      }
+    },
+    {
+      "id": 317,
+      "eng": "sake",
+      "tr": [
+        "sake"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "macera",
+          "kaza",
+          "sake",
+          "masa"
+        ]
+      }
+    },
+    {
+      "id": 318,
+      "eng": "sanction",
+      "tr": [
+        "sanction"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "seçim",
+          "sanction",
+          "kapı",
+          "masa"
+        ]
+      }
+    },
+    {
+      "id": 319,
+      "eng": "say",
+      "tr": [
+        "say"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "say",
+          "karakter",
+          "para",
+          "zaman"
+        ]
+      }
+    },
+    {
+      "id": 320,
+      "eng": "scattered",
+      "tr": [
+        "scattered"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "açık",
+          "bol",
+          "scattered",
+          "akademik"
+        ]
+      }
+    },
+    {
+      "id": 321,
+      "eng": "sceptical",
+      "tr": [
+        "sceptical"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "büyük",
+          "güzel",
+          "zor",
+          "sceptical"
+        ]
+      }
+    },
+    {
+      "id": 322,
+      "eng": "scope",
+      "tr": [
+        "scope"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kadın",
+          "seçim",
+          "scope",
+          "avantaj"
+        ]
+      }
+    },
+    {
+      "id": 323,
+      "eng": "screw",
+      "tr": [
+        "screw"
+      ],
+      "type": "v.,",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "olmak",
+          "anlamak",
+          "screw",
+          "bilmek"
+        ]
+      }
+    },
+    {
+      "id": 324,
+      "eng": "scrutiny",
+      "tr": [
+        "scrutiny"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "okul",
+          "gün",
+          "scrutiny",
+          "bolluk"
+        ]
+      }
+    },
+    {
+      "id": 325,
+      "eng": "seal",
+      "tr": [
+        "seal"
+      ],
+      "type": "v.,",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "görmek",
+          "terk etmek",
+          "erişmek",
+          "seal"
+        ]
+      }
+    },
+    {
+      "id": 326,
+      "eng": "secular",
+      "tr": [
+        "secular"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "açık",
+          "devamsız",
+          "secular",
+          "iyi"
+        ]
+      }
+    },
+    {
+      "id": 327,
+      "eng": "seemingly",
+      "tr": [
+        "seemingly"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "seemingly",
+          "söylemek",
+          "hesaplamak",
+          "takdir etmek"
+        ]
+      }
+    },
+    {
+      "id": 328,
+      "eng": "segment",
+      "tr": [
+        "segment"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "macera",
+          "araba",
+          "şey",
+          "segment"
+        ]
+      }
+    },
+    {
+      "id": 329,
+      "eng": "seize",
+      "tr": [
+        "seize"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "seize",
+          "biriktirmek",
+          "öğrenmek",
+          "vermek"
+        ]
+      }
+    },
+    {
+      "id": 330,
+      "eng": "seldom",
+      "tr": [
+        "seldom"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kabul etmek",
+          "biriktirmek",
+          "kısaltmak",
+          "seldom"
+        ]
+      }
+    },
+    {
+      "id": 331,
+      "eng": "selective",
+      "tr": [
+        "selective"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "aktif",
+          "akademik",
+          "saçma",
+          "selective"
+        ]
+      }
+    },
+    {
+      "id": 332,
+      "eng": "senator",
+      "tr": [
+        "senator"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "senator",
+          "araba",
+          "masa",
+          "ev"
+        ]
+      }
+    },
+    {
+      "id": 333,
+      "eng": "sensation",
+      "tr": [
+        "sensation"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "sensation",
+          "başarı",
+          "yemek",
+          "su"
+        ]
+      }
+    },
+    {
+      "id": 334,
+      "eng": "sensitivity",
+      "tr": [
+        "sensitivity"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "masa",
+          "ev",
+          "sensitivity",
+          "gün"
+        ]
+      }
+    },
+    {
+      "id": 335,
+      "eng": "sentiment",
+      "tr": [
+        "sentiment"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "yokluk",
+          "sentiment",
+          "su",
+          "masa"
+        ]
+      }
+    },
+    {
+      "id": 336,
+      "eng": "separation",
+      "tr": [
+        "separation"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "araba",
+          "para",
+          "okul",
+          "separation"
+        ]
+      }
+    },
+    {
+      "id": 337,
+      "eng": "serial",
+      "tr": [
+        "serial"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "bitişik",
+          "eski",
+          "soğuk",
+          "serial"
+        ]
+      }
+    },
+    {
+      "id": 338,
+      "eng": "settlement",
+      "tr": [
+        "settlement"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "masa",
+          "settlement",
+          "yetenek",
+          "yer"
+        ]
+      }
+    },
+    {
+      "id": 339,
+      "eng": "sexuality",
+      "tr": [
+        "sexuality"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "karakter",
+          "soyutlama",
+          "macera",
+          "sexuality"
+        ]
+      }
+    },
+    {
+      "id": 340,
+      "eng": "shareholder",
+      "tr": [
+        "shareholder"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "adam",
+          "yetenek",
+          "shareholder",
+          "bolluk"
+        ]
+      }
+    },
+    {
+      "id": 341,
+      "eng": "shatter",
+      "tr": [
+        "shatter"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "gelmek",
+          "almak",
+          "shatter",
+          "anlamak"
+        ]
+      }
+    },
+    {
+      "id": 342,
+      "eng": "shed",
+      "tr": [
+        "shed"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "vermek",
+          "terk etmek",
+          "bilmek",
+          "shed"
+        ]
+      }
+    },
+    {
+      "id": 343,
+      "eng": "sheer",
+      "tr": [
+        "sheer"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "sheer",
+          "aktif",
+          "büyük",
+          "hızlı"
+        ]
+      }
+    },
+    {
+      "id": 344,
+      "eng": "shipping",
+      "tr": [
+        "shipping"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "shipping",
+          "seçim",
+          "şey",
+          "su"
+        ]
+      }
+    },
+    {
+      "id": 345,
+      "eng": "shoot",
+      "tr": [
+        "shoot"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "süreç",
+          "avantaj",
+          "okul",
+          "shoot"
+        ]
+      }
+    },
+    {
+      "id": 346,
+      "eng": "shrink",
+      "tr": [
+        "shrink"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "anlamak",
+          "shrink",
+          "kabul etmek",
+          "okumak"
+        ]
+      }
+    },
+    {
+      "id": 347,
+      "eng": "shrug",
+      "tr": [
+        "shrug"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kısaltmak",
+          "öğrenmek",
+          "shrug",
+          "eklemek"
+        ]
+      }
+    },
+    {
+      "id": 348,
+      "eng": "sigh",
+      "tr": [
+        "sigh"
+      ],
+      "type": "v.,",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "sigh",
+          "eklemek",
+          "çıkarmak",
+          "görmek"
+        ]
+      }
+    },
+    {
+      "id": 349,
+      "eng": "simulate",
+      "tr": [
+        "simulate"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "hesaplamak",
+          "öğrenmek",
+          "simulate",
+          "olmak"
+        ]
+      }
+    },
+    {
+      "id": 350,
+      "eng": "simulation",
+      "tr": [
+        "simulation"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "insan",
+          "süreç",
+          "yemek",
+          "simulation"
+        ]
+      }
+    },
+    {
+      "id": 351,
+      "eng": "simultaneously",
+      "tr": [
+        "simultaneously"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "simultaneously",
+          "vermek",
+          "etkilemek",
+          "yapmak"
+        ]
+      }
+    },
+    {
+      "id": 352,
+      "eng": "sin",
+      "tr": [
+        "sin"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "şey",
+          "su",
+          "zaman",
+          "sin"
+        ]
+      }
+    },
+    {
+      "id": 353,
+      "eng": "situated",
+      "tr": [
+        "situated"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "situated",
+          "yeni",
+          "kırık",
+          "canlı"
+        ]
+      }
+    },
+    {
+      "id": 354,
+      "eng": "sketch",
+      "tr": [
+        "sketch"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "şey",
+          "sketch",
+          "kısaltma",
+          "yokluk"
+        ]
+      }
+    },
+    {
+      "id": 355,
+      "eng": "skip",
+      "tr": [
+        "skip"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "suçlamak",
+          "çıkarmak",
+          "skip",
+          "kabul etmek"
+        ]
+      }
+    },
+    {
+      "id": 356,
+      "eng": "slam",
+      "tr": [
+        "slam"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "biriktirmek",
+          "slam",
+          "terk etmek",
+          "öğrenmek"
+        ]
+      }
+    },
+    {
+      "id": 357,
+      "eng": "slap",
+      "tr": [
+        "slap"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "eşlik etmek",
+          "olmak",
+          "suçlamak",
+          "slap"
+        ]
+      }
+    },
+    {
+      "id": 358,
+      "eng": "slash",
+      "tr": [
+        "slash"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "slash",
+          "eklemek",
+          "kabul etmek",
+          "gelmek"
+        ]
+      }
+    },
+    {
+      "id": 359,
+      "eng": "slavery",
+      "tr": [
+        "slavery"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "slavery",
+          "yer",
+          "görev",
+          "macera"
+        ]
+      }
+    },
+    {
+      "id": 360,
+      "eng": "slot",
+      "tr": [
+        "slot"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "başarı",
+          "ev",
+          "görev",
+          "slot"
+        ]
+      }
+    },
+    {
+      "id": 361,
+      "eng": "smash",
+      "tr": [
+        "smash"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "yazmak",
+          "smash",
+          "izin vermek",
+          "eşlik etmek"
+        ]
+      }
+    },
+    {
+      "id": 362,
+      "eng": "snap",
+      "tr": [
+        "snap"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "izin vermek",
+          "vermek",
+          "snap",
+          "eklemek"
+        ]
+      }
+    },
+    {
+      "id": 363,
+      "eng": "soak",
+      "tr": [
+        "soak"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "hesaplamak",
+          "okumak",
+          "öğrenmek",
+          "soak"
+        ]
+      }
+    },
+    {
+      "id": 364,
+      "eng": "soar",
+      "tr": [
+        "soar"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "etkilemek",
+          "biriktirmek",
+          "anlamak",
+          "soar"
+        ]
+      }
+    },
+    {
+      "id": 365,
+      "eng": "socialist",
+      "tr": [
+        "socialist"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "socialist",
+          "parlak",
+          "yorgun",
+          "üzgün"
+        ]
+      }
+    },
+    {
+      "id": 366,
+      "eng": "sole",
+      "tr": [
+        "sole"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "sole",
+          "sıcak",
+          "kırık",
+          "açık"
+        ]
+      }
+    },
+    {
+      "id": 367,
+      "eng": "solely",
+      "tr": [
+        "solely"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "yazmak",
+          "solely",
+          "başarmak",
+          "suçlamak"
+        ]
+      }
+    },
+    {
+      "id": 368,
+      "eng": "solicitor",
+      "tr": [
+        "solicitor"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yetenek",
+          "avantaj",
+          "yer",
+          "solicitor"
+        ]
+      }
+    },
+    {
+      "id": 369,
+      "eng": "solidarity",
+      "tr": [
+        "solidarity"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "solidarity",
+          "kaza",
+          "başarı",
+          "yetenek"
+        ]
+      }
+    },
+    {
+      "id": 370,
+      "eng": "solo",
+      "tr": [
+        "solo"
+      ],
+      "type": "adj.,",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "akademik",
+          "iyi",
+          "solo",
+          "canlı"
+        ]
+      }
+    },
+    {
+      "id": 371,
+      "eng": "sound",
+      "tr": [
+        "sound"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "bitişik",
+          "parlak",
+          "sound",
+          "akademik"
+        ]
+      }
+    },
+    {
+      "id": 372,
+      "eng": "sovereignty",
+      "tr": [
+        "sovereignty"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "masa",
+          "sovereignty",
+          "bolluk",
+          "yetenek"
+        ]
+      }
+    },
+    {
+      "id": 373,
+      "eng": "spam",
+      "tr": [
+        "spam"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "okul",
+          "spam",
+          "kısaltma",
+          "arkadaş"
+        ]
+      }
+    },
+    {
+      "id": 374,
+      "eng": "span",
+      "tr": [
+        "span"
+      ],
+      "type": "v.,",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "span",
+          "kaldırmak",
+          "okumak",
+          "söylemek"
+        ]
+      }
+    },
+    {
+      "id": 375,
+      "eng": "spare",
+      "tr": [
+        "spare"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "spare",
+          "uyarlamak",
+          "bilmek",
+          "terk etmek"
+        ]
+      }
+    },
+    {
+      "id": 376,
+      "eng": "spark",
+      "tr": [
+        "spark"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "anlamak",
+          "spark",
+          "erişmek",
+          "biriktirmek"
+        ]
+      }
+    },
+    {
+      "id": 377,
+      "eng": "specialized",
+      "tr": [
+        "specialized"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "açık",
+          "specialized",
+          "üzgün",
+          "küçük"
+        ]
+      }
+    },
+    {
+      "id": 378,
+      "eng": "specification",
+      "tr": [
+        "specification"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "yokluk",
+          "kürtaj",
+          "specification",
+          "yemek"
+        ]
+      }
+    },
+    {
+      "id": 379,
+      "eng": "specimen",
+      "tr": [
+        "specimen"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "specimen",
+          "okul",
+          "yetenek",
+          "kapı"
+        ]
+      }
+    },
+    {
+      "id": 380,
+      "eng": "spectacle",
+      "tr": [
+        "spectacle"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "su",
+          "iş",
+          "spectacle",
+          "yetenek"
+        ]
+      }
+    },
+    {
+      "id": 381,
+      "eng": "spectrum",
+      "tr": [
+        "spectrum"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "spectrum",
+          "iş",
+          "insan",
+          "kısaltma"
+        ]
+      }
+    },
+    {
+      "id": 382,
+      "eng": "spell",
+      "tr": [
+        "spell"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "soyutlama",
+          "spell",
+          "para",
+          "arkadaş"
+        ]
+      }
+    },
+    {
+      "id": 383,
+      "eng": "sphere",
+      "tr": [
+        "sphere"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "masa",
+          "yemek",
+          "iş",
+          "sphere"
+        ]
+      }
+    },
+    {
+      "id": 384,
+      "eng": "spin",
+      "tr": [
+        "spin"
+      ],
+      "type": "v.,",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "spin",
+          "yazmak",
+          "okumak",
+          "bilmek"
+        ]
+      }
+    },
+    {
+      "id": 385,
+      "eng": "spine",
+      "tr": [
+        "spine"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yokluk",
+          "kitap",
+          "okul",
+          "spine"
+        ]
+      }
+    },
+    {
+      "id": 386,
+      "eng": "spotlight",
+      "tr": [
+        "spotlight"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "spotlight",
+          "gün",
+          "yetenek",
+          "kısaltma"
+        ]
+      }
+    },
+    {
+      "id": 387,
+      "eng": "spouse",
+      "tr": [
+        "spouse"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "su",
+          "spouse",
+          "kısaltma",
+          "kürtaj"
+        ]
+      }
+    },
+    {
+      "id": 388,
+      "eng": "spy",
+      "tr": [
+        "spy"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "yokluk",
+          "spy",
+          "yetenek",
+          "başarı"
+        ]
+      }
+    },
+    {
+      "id": 389,
+      "eng": "squad",
+      "tr": [
+        "squad"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kitap",
+          "karakter",
+          "yer",
+          "squad"
+        ]
+      }
+    },
+    {
+      "id": 390,
+      "eng": "squeeze",
+      "tr": [
+        "squeeze"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kabul etmek",
+          "takdir etmek",
+          "hesaplamak",
+          "squeeze"
+        ]
+      }
+    },
+    {
+      "id": 391,
+      "eng": "stab",
+      "tr": [
+        "stab"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "okumak",
+          "stab",
+          "biriktirmek",
+          "suçlamak"
+        ]
+      }
+    },
+    {
+      "id": 392,
+      "eng": "stability",
+      "tr": [
+        "stability"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yetenek",
+          "su",
+          "iş",
+          "stability"
+        ]
+      }
+    },
+    {
+      "id": 393,
+      "eng": "stabilize",
+      "tr": [
+        "stabilize"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "görünmek",
+          "stabilize",
+          "almak",
+          "eşlik etmek"
+        ]
+      }
+    },
+    {
+      "id": 394,
+      "eng": "stake",
+      "tr": [
+        "stake"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "zaman",
+          "seçim",
+          "yetenek",
+          "stake"
+        ]
+      }
+    },
+    {
+      "id": 395,
+      "eng": "standing",
+      "tr": [
+        "standing"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "zor",
+          "standing",
+          "yorgun",
+          "büyük"
+        ]
+      }
+    },
+    {
+      "id": 396,
+      "eng": "stark",
+      "tr": [
+        "stark"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kötü",
+          "stark",
+          "çekici",
+          "zor"
+        ]
+      }
+    },
+    {
+      "id": 397,
+      "eng": "statistical",
+      "tr": [
+        "statistical"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "bitişik",
+          "açık",
+          "parlak",
+          "statistical"
+        ]
+      }
+    },
+    {
+      "id": 398,
+      "eng": "steer",
+      "tr": [
+        "steer"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "steer",
+          "yapmak",
+          "görmek",
+          "etkilemek"
+        ]
+      }
+    },
+    {
+      "id": 399,
+      "eng": "stem",
+      "tr": [
+        "stem"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "stem",
+          "yetenek",
+          "okul",
+          "kürtaj"
+        ]
+      }
+    },
+    {
+      "id": 400,
+      "eng": "stereotype",
+      "tr": [
+        "stereotype"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "adam",
+          "yokluk",
+          "kitap",
+          "stereotype"
+        ]
+      }
+    },
+    {
+      "id": 401,
+      "eng": "stimulus",
+      "tr": [
+        "stimulus"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "adam",
+          "yemek",
+          "stimulus",
+          "yer"
+        ]
+      }
+    },
+    {
+      "id": 402,
+      "eng": "stir",
+      "tr": [
+        "stir"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "biriktirmek",
+          "stir",
+          "öğrenmek",
+          "çıkarmak"
+        ]
+      }
+    },
+    {
+      "id": 403,
+      "eng": "storage",
+      "tr": [
+        "storage"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "storage",
+          "ev",
+          "macera",
+          "para"
+        ]
+      }
+    },
+    {
+      "id": 404,
+      "eng": "straightforward",
+      "tr": [
+        "straightforward"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "yavaş",
+          "straightforward",
+          "bol",
+          "büyük"
+        ]
+      }
+    },
+    {
+      "id": 405,
+      "eng": "strain",
+      "tr": [
+        "strain"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "strain",
+          "arkadaş",
+          "bolluk",
+          "macera"
+        ]
+      }
+    },
+    {
+      "id": 406,
+      "eng": "strand",
+      "tr": [
+        "strand"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kaza",
+          "yokluk",
+          "süreç",
+          "strand"
+        ]
+      }
+    },
+    {
+      "id": 407,
+      "eng": "strategic",
+      "tr": [
+        "strategic"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "güzel",
+          "zor",
+          "küçük",
+          "strategic"
+        ]
+      }
+    },
+    {
+      "id": 408,
+      "eng": "striking",
+      "tr": [
+        "striking"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "güzel",
+          "yavaş",
+          "striking",
+          "soyut"
+        ]
+      }
+    },
+    {
+      "id": 409,
+      "eng": "strive",
+      "tr": [
+        "strive"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "strive",
+          "anlamak",
+          "kısaltmak",
+          "etkilemek"
+        ]
+      }
+    },
+    {
+      "id": 410,
+      "eng": "structural",
+      "tr": [
+        "structural"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "bitişik",
+          "üzgün",
+          "aktif",
+          "structural"
+        ]
+      }
+    },
+    {
+      "id": 411,
+      "eng": "stumble",
+      "tr": [
+        "stumble"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "izin vermek",
+          "biriktirmek",
+          "stumble",
+          "uyarlamak"
+        ]
+      }
+    },
+    {
+      "id": 412,
+      "eng": "stun",
+      "tr": [
+        "stun"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "biriktirmek",
+          "stun",
+          "olmak",
+          "başarmak"
+        ]
+      }
+    },
+    {
+      "id": 413,
+      "eng": "submission",
+      "tr": [
+        "submission"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "macera",
+          "kadın",
+          "seçim",
+          "submission"
+        ]
+      }
+    },
+    {
+      "id": 414,
+      "eng": "subscriber",
+      "tr": [
+        "subscriber"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "iş",
+          "subscriber",
+          "gün",
+          "şey"
+        ]
+      }
+    },
+    {
+      "id": 415,
+      "eng": "subscription",
+      "tr": [
+        "subscription"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "ev",
+          "subscription",
+          "para",
+          "zaman"
+        ]
+      }
+    },
+    {
+      "id": 416,
+      "eng": "subsidy",
+      "tr": [
+        "subsidy"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "karakter",
+          "subsidy",
+          "soyutlama",
+          "yer"
+        ]
+      }
+    },
+    {
+      "id": 417,
+      "eng": "substantial",
+      "tr": [
+        "substantial"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "substantial",
+          "soğuk",
+          "yavaş",
+          "güzel"
+        ]
+      }
+    },
+    {
+      "id": 418,
+      "eng": "substantially",
+      "tr": [
+        "substantially"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kısaltmak",
+          "görünmek",
+          "substantially",
+          "yapmak"
+        ]
+      }
+    },
+    {
+      "id": 419,
+      "eng": "substitute",
+      "tr": [
+        "substitute"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "substitute",
+          "su",
+          "şey",
+          "kürtaj"
+        ]
+      }
+    },
+    {
+      "id": 420,
+      "eng": "substitution",
+      "tr": [
+        "substitution"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "substitution",
+          "kürtaj",
+          "macera",
+          "süreç"
+        ]
+      }
+    },
+    {
+      "id": 421,
+      "eng": "subtle",
+      "tr": [
+        "subtle"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "subtle",
+          "küçük",
+          "sıcak",
+          "kesin"
+        ]
+      }
+    },
+    {
+      "id": 422,
+      "eng": "suburban",
+      "tr": [
+        "suburban"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "soğuk",
+          "yorgun",
+          "aktif",
+          "suburban"
+        ]
+      }
+    },
+    {
+      "id": 423,
+      "eng": "succession",
+      "tr": [
+        "succession"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "okul",
+          "şey",
+          "zaman",
+          "succession"
+        ]
+      }
+    },
+    {
+      "id": 424,
+      "eng": "successive",
+      "tr": [
+        "successive"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "successive",
+          "mevcut",
+          "küçük",
+          "yeni"
+        ]
+      }
+    },
+    {
+      "id": 425,
+      "eng": "successor",
+      "tr": [
+        "successor"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kitap",
+          "yer",
+          "yetenek",
+          "successor"
+        ]
+      }
+    },
+    {
+      "id": 426,
+      "eng": "suck",
+      "tr": [
+        "suck"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "izin vermek",
+          "vermek",
+          "görmek",
+          "suck"
+        ]
+      }
+    },
+    {
+      "id": 427,
+      "eng": "sue",
+      "tr": [
+        "sue"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "eşlik etmek",
+          "takdir etmek",
+          "biriktirmek",
+          "sue"
+        ]
+      }
+    },
+    {
+      "id": 428,
+      "eng": "suicide",
+      "tr": [
+        "suicide"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kitap",
+          "suicide",
+          "soyutlama",
+          "kaza"
+        ]
+      }
+    },
+    {
+      "id": 429,
+      "eng": "suite",
+      "tr": [
+        "suite"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "ev",
+          "insan",
+          "kaza",
+          "suite"
+        ]
+      }
+    },
+    {
+      "id": 430,
+      "eng": "summit",
+      "tr": [
+        "summit"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "zaman",
+          "okul",
+          "para",
+          "summit"
+        ]
+      }
+    },
+    {
+      "id": 431,
+      "eng": "superb",
+      "tr": [
+        "superb"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "küçük",
+          "superb",
+          "mutlu",
+          "canlı"
+        ]
+      }
+    },
+    {
+      "id": 432,
+      "eng": "superior",
+      "tr": [
+        "superior"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "küçük",
+          "iyi",
+          "superior",
+          "hızlı"
+        ]
+      }
+    },
+    {
+      "id": 433,
+      "eng": "supervise",
+      "tr": [
+        "supervise"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "izin vermek",
+          "hızlandırmak",
+          "olmak",
+          "supervise"
+        ]
+      }
+    },
+    {
+      "id": 434,
+      "eng": "supervision",
+      "tr": [
+        "supervision"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kaza",
+          "şey",
+          "supervision",
+          "avantaj"
+        ]
+      }
+    },
+    {
+      "id": 435,
+      "eng": "supervisor",
+      "tr": [
+        "supervisor"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kapı",
+          "supervisor",
+          "zaman",
+          "görev"
+        ]
+      }
+    },
+    {
+      "id": 436,
+      "eng": "supplement",
+      "tr": [
+        "supplement"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "karakter",
+          "kadın",
+          "supplement",
+          "bolluk"
+        ]
+      }
+    },
+    {
+      "id": 437,
+      "eng": "supportive",
+      "tr": [
+        "supportive"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "saçma",
+          "kötü",
+          "kolay",
+          "supportive"
+        ]
+      }
+    },
+    {
+      "id": 438,
+      "eng": "supposedly",
+      "tr": [
+        "supposedly"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "etkilemek",
+          "anlamak",
+          "supposedly",
+          "gelmek"
+        ]
+      }
+    },
+    {
+      "id": 439,
+      "eng": "suppress",
+      "tr": [
+        "suppress"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "suppress",
+          "hızlandırmak",
+          "vermek",
+          "eklemek"
+        ]
+      }
+    },
+    {
+      "id": 440,
+      "eng": "supreme",
+      "tr": [
+        "supreme"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kolay",
+          "supreme",
+          "hızlı",
+          "soyut"
+        ]
+      }
+    },
+    {
+      "id": 441,
+      "eng": "surge",
+      "tr": [
+        "surge"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "surge",
+          "yer",
+          "süreç",
+          "zaman"
+        ]
+      }
+    },
+    {
+      "id": 442,
+      "eng": "surgical",
+      "tr": [
+        "surgical"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yavaş",
+          "soğuk",
+          "sıcak",
+          "surgical"
+        ]
+      }
+    },
+    {
+      "id": 443,
+      "eng": "surplus",
+      "tr": [
+        "surplus"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kadın",
+          "masa",
+          "surplus",
+          "su"
+        ]
+      }
+    },
+    {
+      "id": 444,
+      "eng": "surrender",
+      "tr": [
+        "surrender"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "suçlamak",
+          "surrender",
+          "gitmek",
+          "izin vermek"
+        ]
+      }
+    },
+    {
+      "id": 445,
+      "eng": "surveillance",
+      "tr": [
+        "surveillance"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "ev",
+          "seçim",
+          "surveillance",
+          "kapı"
+        ]
+      }
+    },
+    {
+      "id": 446,
+      "eng": "suspension",
+      "tr": [
+        "suspension"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "arkadaş",
+          "insan",
+          "suspension",
+          "okul"
+        ]
+      }
+    },
+    {
+      "id": 447,
+      "eng": "suspicion",
+      "tr": [
+        "suspicion"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "ev",
+          "suspicion",
+          "gün",
+          "kadın"
+        ]
+      }
+    },
+    {
+      "id": 448,
+      "eng": "suspicious",
+      "tr": [
+        "suspicious"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "zor",
+          "açık",
+          "eski",
+          "suspicious"
+        ]
+      }
+    },
+    {
+      "id": 449,
+      "eng": "sustain",
+      "tr": [
+        "sustain"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "yazmak",
+          "görmek",
+          "sustain",
+          "almak"
+        ]
+      }
+    },
+    {
+      "id": 450,
+      "eng": "swing",
+      "tr": [
+        "swing"
+      ],
+      "type": "v.,",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "çıkarmak",
+          "kaldırmak",
+          "swing",
+          "gitmek"
+        ]
+      }
+    },
+    {
+      "id": 451,
+      "eng": "sword",
+      "tr": [
+        "sword"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "sword",
+          "iş",
+          "başarı",
+          "karakter"
+        ]
+      }
+    },
+    {
+      "id": 452,
+      "eng": "symbolic",
+      "tr": [
+        "symbolic"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "canlı",
+          "hızlı",
+          "symbolic",
+          "küçük"
+        ]
+      }
+    },
+    {
+      "id": 453,
+      "eng": "syndrome",
+      "tr": [
+        "syndrome"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kadın",
+          "kısaltma",
+          "yer",
+          "syndrome"
+        ]
+      }
+    },
+    {
+      "id": 454,
+      "eng": "synthesis",
+      "tr": [
+        "synthesis"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "synthesis",
+          "macera",
+          "soyutlama",
+          "okul"
+        ]
+      }
+    },
+    {
+      "id": 455,
+      "eng": "systematic",
+      "tr": [
+        "systematic"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kolay",
+          "systematic",
+          "iyi",
+          "büyük"
+        ]
+      }
+    },
+    {
+      "id": 456,
+      "eng": "tackle",
+      "tr": [
+        "tackle"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kadın",
+          "tackle",
+          "masa",
+          "süreç"
+        ]
+      }
+    },
+    {
+      "id": 457,
+      "eng": "tactic",
+      "tr": [
+        "tactic"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "okul",
+          "su",
+          "tactic",
+          "avantaj"
+        ]
+      }
+    },
+    {
+      "id": 458,
+      "eng": "tactical",
+      "tr": [
+        "tactical"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "tactical",
+          "kapalı",
+          "bol",
+          "yeni"
+        ]
+      }
+    },
+    {
+      "id": 459,
+      "eng": "taxpayer",
+      "tr": [
+        "taxpayer"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "yokluk",
+          "görev",
+          "taxpayer",
+          "araba"
+        ]
+      }
+    },
+    {
+      "id": 460,
+      "eng": "tempt",
+      "tr": [
+        "tempt"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "tempt",
+          "görünmek",
+          "biriktirmek",
+          "başarmak"
+        ]
+      }
+    },
+    {
+      "id": 461,
+      "eng": "tenant",
+      "tr": [
+        "tenant"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "adam",
+          "bolluk",
+          "tenant",
+          "yer"
+        ]
+      }
+    },
+    {
+      "id": 462,
+      "eng": "tender",
+      "tr": [
+        "tender"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "sıcak",
+          "tender",
+          "güzel",
+          "soyut"
+        ]
+      }
+    },
+    {
+      "id": 463,
+      "eng": "tenure",
+      "tr": [
+        "tenure"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "tenure",
+          "kapı",
+          "yemek",
+          "yetenek"
+        ]
+      }
+    },
+    {
+      "id": 464,
+      "eng": "terminal",
+      "tr": [
+        "terminal"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kapalı",
+          "soyut",
+          "mutlu",
+          "terminal"
+        ]
+      }
+    },
+    {
+      "id": 465,
+      "eng": "terminate",
+      "tr": [
+        "terminate"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "biriktirmek",
+          "terminate",
+          "öğrenmek",
+          "kabul etmek"
+        ]
+      }
+    },
+    {
+      "id": 466,
+      "eng": "terrain",
+      "tr": [
+        "terrain"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "yer",
+          "arkadaş",
+          "terrain",
+          "kitap"
+        ]
+      }
+    },
+    {
+      "id": 467,
+      "eng": "terrific",
+      "tr": [
+        "terrific"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kesin",
+          "bitişik",
+          "terrific",
+          "kırık"
+        ]
+      }
+    },
+    {
+      "id": 468,
+      "eng": "testify",
+      "tr": [
+        "testify"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "bilmek",
+          "almak",
+          "anlamak",
+          "testify"
+        ]
+      }
+    },
+    {
+      "id": 469,
+      "eng": "testimony",
+      "tr": [
+        "testimony"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "para",
+          "testimony",
+          "iş",
+          "macera"
+        ]
+      }
+    },
+    {
+      "id": 470,
+      "eng": "texture",
+      "tr": [
+        "texture"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "yer",
+          "insan",
+          "texture",
+          "kapı"
+        ]
+      }
+    },
+    {
+      "id": 471,
+      "eng": "thankfully",
+      "tr": [
+        "thankfully"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "çıkarmak",
+          "vermek",
+          "kabul etmek",
+          "thankfully"
+        ]
+      }
+    },
+    {
+      "id": 472,
+      "eng": "theatrical",
+      "tr": [
+        "theatrical"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "theatrical",
+          "kesin",
+          "devamsız",
+          "bol"
+        ]
+      }
+    },
+    {
+      "id": 473,
+      "eng": "theology",
+      "tr": [
+        "theology"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "ev",
+          "gün",
+          "theology",
+          "iş"
+        ]
+      }
+    },
+    {
+      "id": 474,
+      "eng": "theoretical",
+      "tr": [
+        "theoretical"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "saçma",
+          "theoretical",
+          "mevcut",
+          "iyi"
+        ]
+      }
+    },
+    {
+      "id": 475,
+      "eng": "thereafter",
+      "tr": [
+        "thereafter"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "okumak",
+          "thereafter",
+          "takdir etmek",
+          "vermek"
+        ]
+      }
+    },
+    {
+      "id": 476,
+      "eng": "thereby",
+      "tr": [
+        "thereby"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "thereby",
+          "anlamak",
+          "biriktirmek",
+          "eşlik etmek"
+        ]
+      }
+    },
+    {
+      "id": 477,
+      "eng": "thoughtful",
+      "tr": [
+        "thoughtful"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "yorgun",
+          "thoughtful",
+          "sıcak",
+          "parlak"
+        ]
+      }
+    },
+    {
+      "id": 478,
+      "eng": "thread",
+      "tr": [
+        "thread"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "thread",
+          "kısaltma",
+          "zaman",
+          "para"
+        ]
+      }
+    },
+    {
+      "id": 479,
+      "eng": "threshold",
+      "tr": [
+        "threshold"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "arkadaş",
+          "threshold",
+          "yer",
+          "kapı"
+        ]
+      }
+    },
+    {
+      "id": 480,
+      "eng": "thrilled",
+      "tr": [
+        "thrilled"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "akut",
+          "saçma",
+          "thrilled",
+          "üzgün"
+        ]
+      }
+    },
+    {
+      "id": 481,
+      "eng": "thrive",
+      "tr": [
+        "thrive"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "yazmak",
+          "gelmek",
+          "thrive",
+          "uyarlamak"
+        ]
+      }
+    },
+    {
+      "id": 482,
+      "eng": "tide",
+      "tr": [
+        "tide"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kürtaj",
+          "kısaltma",
+          "tide",
+          "ev"
+        ]
+      }
+    },
+    {
+      "id": 483,
+      "eng": "tighten",
+      "tr": [
+        "tighten"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "çıkarmak",
+          "okumak",
+          "kabul etmek",
+          "tighten"
+        ]
+      }
+    },
+    {
+      "id": 484,
+      "eng": "timber",
+      "tr": [
+        "timber"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "gün",
+          "karakter",
+          "araba",
+          "timber"
+        ]
+      }
+    },
+    {
+      "id": 485,
+      "eng": "timely",
+      "tr": [
+        "timely"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "mutlu",
+          "timely",
+          "canlı",
+          "mevcut"
+        ]
+      }
+    },
+    {
+      "id": 486,
+      "eng": "tobacco",
+      "tr": [
+        "tobacco"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "görev",
+          "tobacco",
+          "yokluk",
+          "gün"
+        ]
+      }
+    },
+    {
+      "id": 487,
+      "eng": "tolerance",
+      "tr": [
+        "tolerance"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "insan",
+          "görev",
+          "zaman",
+          "tolerance"
+        ]
+      }
+    },
+    {
+      "id": 488,
+      "eng": "tolerate",
+      "tr": [
+        "tolerate"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "eşlik etmek",
+          "izin vermek",
+          "tolerate",
+          "kabul etmek"
+        ]
+      }
+    },
+    {
+      "id": 489,
+      "eng": "toll",
+      "tr": [
+        "toll"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "yer",
+          "toll",
+          "kadın",
+          "okul"
+        ]
+      }
+    },
+    {
+      "id": 490,
+      "eng": "torture",
+      "tr": [
+        "torture"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kitap",
+          "kürtaj",
+          "yer",
+          "torture"
+        ]
+      }
+    },
+    {
+      "id": 491,
+      "eng": "toss",
+      "tr": [
+        "toss"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "hesaplamak",
+          "anlamak",
+          "toss",
+          "söylemek"
+        ]
+      }
+    },
+    {
+      "id": 492,
+      "eng": "total",
+      "tr": [
+        "total"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kabul etmek",
+          "yazmak",
+          "erişmek",
+          "total"
+        ]
+      }
+    },
+    {
+      "id": 493,
+      "eng": "toxic",
+      "tr": [
+        "toxic"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "üzgün",
+          "canlı",
+          "küçük",
+          "toxic"
+        ]
+      }
+    },
+    {
+      "id": 494,
+      "eng": "trace",
+      "tr": [
+        "trace"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "okul",
+          "yokluk",
+          "trace",
+          "yetenek"
+        ]
+      }
+    },
+    {
+      "id": 495,
+      "eng": "trademark",
+      "tr": [
+        "trademark"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "macera",
+          "trademark",
+          "kitap",
+          "avantaj"
+        ]
+      }
+    },
+    {
+      "id": 496,
+      "eng": "trail",
+      "tr": [
+        "trail"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "trail",
+          "avantaj",
+          "kaza",
+          "soyutlama"
+        ]
+      }
+    },
+    {
+      "id": 497,
+      "eng": "trailer",
+      "tr": [
+        "trailer"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "yemek",
+          "su",
+          "trailer",
+          "macera"
+        ]
+      }
+    },
+    {
+      "id": 498,
+      "eng": "transaction",
+      "tr": [
+        "transaction"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "karakter",
+          "yetenek",
+          "yetenek",
+          "transaction"
+        ]
+      }
+    },
+    {
+      "id": 499,
+      "eng": "transcript",
+      "tr": [
+        "transcript"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "para",
+          "transcript",
+          "seçim",
+          "soyutlama"
+        ]
+      }
+    },
+    {
+      "id": 500,
+      "eng": "transformation",
+      "tr": [
+        "transformation"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kapı",
+          "transformation",
+          "kaza",
+          "okul"
+        ]
+      }
+    },
+    {
+      "id": 501,
+      "eng": "transit",
+      "tr": [
+        "transit"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kapı",
+          "seçim",
+          "transit",
+          "kısaltma"
+        ]
+      }
+    },
+    {
+      "id": 502,
+      "eng": "transmission",
+      "tr": [
+        "transmission"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "transmission",
+          "iş",
+          "su",
+          "yemek"
+        ]
+      }
+    },
+    {
+      "id": 503,
+      "eng": "transparency",
+      "tr": [
+        "transparency"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "insan",
+          "transparency",
+          "okul",
+          "arkadaş"
+        ]
+      }
+    },
+    {
+      "id": 504,
+      "eng": "transparent",
+      "tr": [
+        "transparent"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "iyi",
+          "hızlı",
+          "transparent",
+          "çekici"
+        ]
+      }
+    },
+    {
+      "id": 505,
+      "eng": "trauma",
+      "tr": [
+        "trauma"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kapı",
+          "trauma",
+          "bolluk",
+          "süreç"
+        ]
+      }
+    },
+    {
+      "id": 506,
+      "eng": "treaty",
+      "tr": [
+        "treaty"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yemek",
+          "adam",
+          "kadın",
+          "treaty"
+        ]
+      }
+    },
+    {
+      "id": 507,
+      "eng": "tremendous",
+      "tr": [
+        "tremendous"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "tremendous",
+          "zor",
+          "yeni",
+          "kolay"
+        ]
+      }
+    },
+    {
+      "id": 508,
+      "eng": "tribal",
+      "tr": [
+        "tribal"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "tribal",
+          "küçük",
+          "kırık",
+          "açık"
+        ]
+      }
+    },
+    {
+      "id": 509,
+      "eng": "tribunal",
+      "tr": [
+        "tribunal"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yokluk",
+          "yetenek",
+          "süreç",
+          "tribunal"
+        ]
+      }
+    },
+    {
+      "id": 510,
+      "eng": "tribute",
+      "tr": [
+        "tribute"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kapı",
+          "tribute",
+          "gün",
+          "arkadaş"
+        ]
+      }
+    },
+    {
+      "id": 511,
+      "eng": "trigger",
+      "tr": [
+        "trigger"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "macera",
+          "yokluk",
+          "kitap",
+          "trigger"
+        ]
+      }
+    },
+    {
+      "id": 512,
+      "eng": "trio",
+      "tr": [
+        "trio"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kadın",
+          "insan",
+          "trio",
+          "araba"
+        ]
+      }
+    },
+    {
+      "id": 513,
+      "eng": "triumph",
+      "tr": [
+        "triumph"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "macera",
+          "karakter",
+          "kısaltma",
+          "triumph"
+        ]
+      }
+    },
+    {
+      "id": 514,
+      "eng": "trophy",
+      "tr": [
+        "trophy"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "trophy",
+          "kadın",
+          "yer",
+          "kapı"
+        ]
+      }
+    },
+    {
+      "id": 515,
+      "eng": "troubled",
+      "tr": [
+        "troubled"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "troubled",
+          "yavaş",
+          "eski",
+          "büyük"
+        ]
+      }
+    },
+    {
+      "id": 516,
+      "eng": "trustee",
+      "tr": [
+        "trustee"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "gün",
+          "trustee",
+          "adam",
+          "yetenek"
+        ]
+      }
+    },
+    {
+      "id": 517,
+      "eng": "tuition",
+      "tr": [
+        "tuition"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "avantaj",
+          "yemek",
+          "gün",
+          "tuition"
+        ]
+      }
+    },
+    {
+      "id": 518,
+      "eng": "turnout",
+      "tr": [
+        "turnout"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yemek",
+          "okul",
+          "yokluk",
+          "turnout"
+        ]
+      }
+    },
+    {
+      "id": 519,
+      "eng": "turnover",
+      "tr": [
+        "turnover"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yetenek",
+          "ev",
+          "karakter",
+          "turnover"
+        ]
+      }
+    },
+    {
+      "id": 520,
+      "eng": "twist",
+      "tr": [
+        "twist"
+      ],
+      "type": "v.,",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kısaltmak",
+          "başarmak",
+          "yapmak",
+          "twist"
+        ]
+      }
+    },
+    {
+      "id": 521,
+      "eng": "undergraduate",
+      "tr": [
+        "undergraduate"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "undergraduate",
+          "kürtaj",
+          "yemek",
+          "karakter"
+        ]
+      }
+    },
+    {
+      "id": 522,
+      "eng": "underlying",
+      "tr": [
+        "underlying"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kolay",
+          "kapalı",
+          "underlying",
+          "hızlı"
+        ]
+      }
+    },
+    {
+      "id": 523,
+      "eng": "undermine",
+      "tr": [
+        "undermine"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "biriktirmek",
+          "vermek",
+          "kısaltmak",
+          "undermine"
+        ]
+      }
+    },
+    {
+      "id": 524,
+      "eng": "undoubtedly",
+      "tr": [
+        "undoubtedly"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "almak",
+          "izin vermek",
+          "hızlandırmak",
+          "undoubtedly"
+        ]
+      }
+    },
+    {
+      "id": 525,
+      "eng": "unify",
+      "tr": [
+        "unify"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "biriktirmek",
+          "unify",
+          "olmak",
+          "yapmak"
+        ]
+      }
+    },
+    {
+      "id": 526,
+      "eng": "unprecedented",
+      "tr": [
+        "unprecedented"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "akademik",
+          "hızlı",
+          "çekici",
+          "unprecedented"
+        ]
+      }
+    },
+    {
+      "id": 527,
+      "eng": "unveil",
+      "tr": [
+        "unveil"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "vermek",
+          "öğrenmek",
+          "başarmak",
+          "unveil"
+        ]
+      }
+    },
+    {
+      "id": 528,
+      "eng": "upcoming",
+      "tr": [
+        "upcoming"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "upcoming",
+          "kesin",
+          "sıcak",
+          "saçma"
+        ]
+      }
+    },
+    {
+      "id": 529,
+      "eng": "upgrade",
+      "tr": [
+        "upgrade"
+      ],
+      "type": "v.,",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "upgrade",
+          "suçlamak",
+          "vermek",
+          "kısaltmak"
+        ]
+      }
+    },
+    {
+      "id": 530,
+      "eng": "uphold",
+      "tr": [
+        "uphold"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kaldırmak",
+          "erişmek",
+          "uphold",
+          "eklemek"
+        ]
+      }
+    },
+    {
+      "id": 531,
+      "eng": "utility",
+      "tr": [
+        "utility"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "utility",
+          "adam",
+          "yetenek",
+          "su"
+        ]
+      }
+    },
+    {
+      "id": 532,
+      "eng": "utilize",
+      "tr": [
+        "utilize"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "hızlandırmak",
+          "utilize",
+          "etkilemek",
+          "terk etmek"
+        ]
+      }
+    },
+    {
+      "id": 533,
+      "eng": "utterly",
+      "tr": [
+        "utterly"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "izin vermek",
+          "almak",
+          "utterly",
+          "eşlik etmek"
+        ]
+      }
+    },
+    {
+      "id": 534,
+      "eng": "vacuum",
+      "tr": [
+        "vacuum"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yemek",
+          "gün",
+          "masa",
+          "vacuum"
+        ]
+      }
+    },
+    {
+      "id": 535,
+      "eng": "vague",
+      "tr": [
+        "vague"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "mutlu",
+          "canlı",
+          "mevcut",
+          "vague"
+        ]
+      }
+    },
+    {
+      "id": 536,
+      "eng": "validity",
+      "tr": [
+        "validity"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "arkadaş",
+          "masa",
+          "validity",
+          "yetenek"
+        ]
+      }
+    },
+    {
+      "id": 537,
+      "eng": "vanish",
+      "tr": [
+        "vanish"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "görünmek",
+          "etkilemek",
+          "vanish",
+          "çıkarmak"
+        ]
+      }
+    },
+    {
+      "id": 538,
+      "eng": "variable",
+      "tr": [
+        "variable"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "variable",
+          "kürtaj",
+          "gün",
+          "arkadaş"
+        ]
+      }
+    },
+    {
+      "id": 539,
+      "eng": "varied",
+      "tr": [
+        "varied"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "varied",
+          "hızlı",
+          "akademik",
+          "parlak"
+        ]
+      }
+    },
+    {
+      "id": 540,
+      "eng": "vein",
+      "tr": [
+        "vein"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "vein",
+          "zaman",
+          "avantaj",
+          "yokluk"
+        ]
+      }
+    },
+    {
+      "id": 541,
+      "eng": "venture",
+      "tr": [
+        "venture"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kaza",
+          "arkadaş",
+          "soyutlama",
+          "venture"
+        ]
+      }
+    },
+    {
+      "id": 542,
+      "eng": "verbal",
+      "tr": [
+        "verbal"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "soyut",
+          "verbal",
+          "mevcut",
+          "canlı"
+        ]
+      }
+    },
+    {
+      "id": 543,
+      "eng": "verdict",
+      "tr": [
+        "verdict"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "macera",
+          "verdict",
+          "ev",
+          "yetenek"
+        ]
+      }
+    },
+    {
+      "id": 544,
+      "eng": "verify",
+      "tr": [
+        "verify"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "öğrenmek",
+          "verify",
+          "görmek",
+          "gitmek"
+        ]
+      }
+    },
+    {
+      "id": 545,
+      "eng": "verse",
+      "tr": [
+        "verse"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "adam",
+          "yokluk",
+          "verse",
+          "yemek"
+        ]
+      }
+    },
+    {
+      "id": 546,
+      "eng": "versus",
+      "tr": [
+        "versus"
+      ],
+      "type": "prep.",
+      "type_tr": "edat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "rağmen",
+          "ile",
+          "hangi",
+          "versus"
+        ]
+      }
+    },
+    {
+      "id": 547,
+      "eng": "vessel",
+      "tr": [
+        "vessel"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "vessel",
+          "kitap",
+          "yokluk",
+          "yetenek"
+        ]
+      }
+    },
+    {
+      "id": 548,
+      "eng": "veteran",
+      "tr": [
+        "veteran"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "veteran",
+          "soyutlama",
+          "iş",
+          "masa"
+        ]
+      }
+    },
+    {
+      "id": 549,
+      "eng": "viable",
+      "tr": [
+        "viable"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "bol",
+          "kolay",
+          "kırık",
+          "viable"
+        ]
+      }
+    },
+    {
+      "id": 550,
+      "eng": "vibrant",
+      "tr": [
+        "vibrant"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "vibrant",
+          "saçma",
+          "kırık",
+          "soyut"
+        ]
+      }
+    },
+    {
+      "id": 551,
+      "eng": "vice",
+      "tr": [
+        "vice"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "yokluk",
+          "soyutlama",
+          "vice",
+          "macera"
+        ]
+      }
+    },
+    {
+      "id": 552,
+      "eng": "vicious",
+      "tr": [
+        "vicious"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "yeni",
+          "soğuk",
+          "vicious",
+          "soyut"
+        ]
+      }
+    },
+    {
+      "id": 553,
+      "eng": "villager",
+      "tr": [
+        "villager"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "kaza",
+          "para",
+          "karakter",
+          "villager"
+        ]
+      }
+    },
+    {
+      "id": 554,
+      "eng": "violate",
+      "tr": [
+        "violate"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "eklemek",
+          "violate",
+          "suçlamak",
+          "terk etmek"
+        ]
+      }
+    },
+    {
+      "id": 555,
+      "eng": "violation",
+      "tr": [
+        "violation"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kısaltma",
+          "violation",
+          "seçim",
+          "yetenek"
+        ]
+      }
+    },
+    {
+      "id": 556,
+      "eng": "virtue",
+      "tr": [
+        "virtue"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "okul",
+          "virtue",
+          "şey",
+          "yemek"
+        ]
+      }
+    },
+    {
+      "id": 557,
+      "eng": "vocal",
+      "tr": [
+        "vocal"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yavaş",
+          "kolay",
+          "kötü",
+          "vocal"
+        ]
+      }
+    },
+    {
+      "id": 558,
+      "eng": "vow",
+      "tr": [
+        "vow"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "vermek",
+          "yapmak",
+          "söylemek",
+          "vow"
+        ]
+      }
+    },
+    {
+      "id": 559,
+      "eng": "vulnerability",
+      "tr": [
+        "vulnerability"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "yemek",
+          "adam",
+          "kitap",
+          "vulnerability"
+        ]
+      }
+    },
+    {
+      "id": 560,
+      "eng": "vulnerable",
+      "tr": [
+        "vulnerable"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "aktif",
+          "sıcak",
+          "vulnerable",
+          "akut"
+        ]
+      }
+    },
+    {
+      "id": 561,
+      "eng": "ward",
+      "tr": [
+        "ward"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "macera",
+          "avantaj",
+          "arkadaş",
+          "ward"
+        ]
+      }
+    },
+    {
+      "id": 562,
+      "eng": "warehouse",
+      "tr": [
+        "warehouse"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "warehouse",
+          "zaman",
+          "yokluk",
+          "kapı"
+        ]
+      }
+    },
+    {
+      "id": 563,
+      "eng": "warfare",
+      "tr": [
+        "warfare"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "warfare",
+          "kürtaj",
+          "macera",
+          "insan"
+        ]
+      }
+    },
+    {
+      "id": 564,
+      "eng": "warrant",
+      "tr": [
+        "warrant"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "arkadaş",
+          "masa",
+          "avantaj",
+          "warrant"
+        ]
+      }
+    },
+    {
+      "id": 565,
+      "eng": "warrior",
+      "tr": [
+        "warrior"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "zaman",
+          "warrior",
+          "kürtaj",
+          "arkadaş"
+        ]
+      }
+    },
+    {
+      "id": 566,
+      "eng": "weaken",
+      "tr": [
+        "weaken"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "izin vermek",
+          "öğrenmek",
+          "erişmek",
+          "weaken"
+        ]
+      }
+    },
+    {
+      "id": 567,
+      "eng": "weave",
+      "tr": [
+        "weave"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "kısaltmak",
+          "weave",
+          "etkilemek",
+          "yazmak"
+        ]
+      }
+    },
+    {
+      "id": 568,
+      "eng": "weed",
+      "tr": [
+        "weed"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "insan",
+          "görev",
+          "weed",
+          "macera"
+        ]
+      }
+    },
+    {
+      "id": 569,
+      "eng": "well",
+      "tr": [
+        "well"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "well",
+          "iş",
+          "arkadaş",
+          "para"
+        ]
+      }
+    },
+    {
+      "id": 570,
+      "eng": "whatsoever",
+      "tr": [
+        "whatsoever"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "whatsoever",
+          "gitmek",
+          "takdir etmek",
+          "çıkarmak"
+        ]
+      }
+    },
+    {
+      "id": 571,
+      "eng": "whereby",
+      "tr": [
+        "whereby"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 1,
+        "options": [
+          "bilmek",
+          "whereby",
+          "erişmek",
+          "gitmek"
+        ]
+      }
+    },
+    {
+      "id": 572,
+      "eng": "whilst",
+      "tr": [
+        "whilst"
+      ],
+      "type": "conj.",
+      "type_tr": "bağlaç",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "şu",
+          "hangi",
+          "whilst",
+          "kadar"
+        ]
+      }
+    },
+    {
+      "id": 573,
+      "eng": "whip",
+      "tr": [
+        "whip"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "whip",
+          "yazmak",
+          "görünmek",
+          "etkilemek"
+        ]
+      }
+    },
+    {
+      "id": 574,
+      "eng": "wholly",
+      "tr": [
+        "wholly"
+      ],
+      "type": "adv.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "wholly",
+          "öğrenmek",
+          "söylemek",
+          "okumak"
+        ]
+      }
+    },
+    {
+      "id": 575,
+      "eng": "widen",
+      "tr": [
+        "widen"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "olmak",
+          "uyarlamak",
+          "eklemek",
+          "widen"
+        ]
+      }
+    },
+    {
+      "id": 576,
+      "eng": "widow",
+      "tr": [
+        "widow"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "süreç",
+          "iş",
+          "karakter",
+          "widow"
+        ]
+      }
+    },
+    {
+      "id": 577,
+      "eng": "width",
+      "tr": [
+        "width"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "masa",
+          "su",
+          "width",
+          "yemek"
+        ]
+      }
+    },
+    {
+      "id": 578,
+      "eng": "willingness",
+      "tr": [
+        "willingness"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "willingness",
+          "zaman",
+          "avantaj",
+          "kitap"
+        ]
+      }
+    },
+    {
+      "id": 579,
+      "eng": "wipe",
+      "tr": [
+        "wipe"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "öğrenmek",
+          "erişmek",
+          "izin vermek",
+          "wipe"
+        ]
+      }
+    },
+    {
+      "id": 580,
+      "eng": "wit",
+      "tr": [
+        "wit"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "kapı",
+          "gün",
+          "wit",
+          "yetenek"
+        ]
+      }
+    },
+    {
+      "id": 581,
+      "eng": "withdrawal",
+      "tr": [
+        "withdrawal"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "okul",
+          "soyutlama",
+          "macera",
+          "withdrawal"
+        ]
+      }
+    },
+    {
+      "id": 582,
+      "eng": "workout",
+      "tr": [
+        "workout"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "araba",
+          "su",
+          "avantaj",
+          "workout"
+        ]
+      }
+    },
+    {
+      "id": 583,
+      "eng": "worship",
+      "tr": [
+        "worship"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "masa",
+          "avantaj",
+          "worship",
+          "kapı"
+        ]
+      }
+    },
+    {
+      "id": 584,
+      "eng": "worthwhile",
+      "tr": [
+        "worthwhile"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "worthwhile",
+          "parlak",
+          "büyük",
+          "yorgun"
+        ]
+      }
+    },
+    {
+      "id": 585,
+      "eng": "worthy",
+      "tr": [
+        "worthy"
+      ],
+      "type": "adj.",
+      "type_tr": "sıfat",
+      "level": "C2",
+      "quiz": {
+        "correct": 3,
+        "options": [
+          "küçük",
+          "bol",
+          "devamsız",
+          "worthy"
+        ]
+      }
+    },
+    {
+      "id": 586,
+      "eng": "yell",
+      "tr": [
+        "yell"
+      ],
+      "type": "v.",
+      "type_tr": "fiil",
+      "level": "C2",
+      "quiz": {
+        "correct": 0,
+        "options": [
+          "yell",
+          "anlamak",
+          "izin vermek",
+          "biriktirmek"
+        ]
+      }
+    },
+    {
+      "id": 587,
+      "eng": "yield",
+      "tr": [
+        "yield"
+      ],
+      "type": "n.,",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "para",
+          "avantaj",
+          "yield",
+          "kapı"
+        ]
+      }
+    },
+    {
+      "id": 588,
+      "eng": "youngster",
+      "tr": [
+        "youngster"
+      ],
+      "type": "n.",
+      "type_tr": "isim",
+      "level": "C2",
+      "quiz": {
+        "correct": 2,
+        "options": [
+          "yokluk",
+          "kaza",
+          "youngster",
+          "yetenek"
+        ]
+      }
+    }
+  ]
+}
